@@ -1,0 +1,73 @@
+<ns0:kml xmlns:ns0="http://www.opengis.net/kml/2.2" xmlns:ns1="http://www.google.com/kml/ext/2.2">
+<ns0:Document>
+	<ns0:name>reemplazo.kml</ns0:name>
+	<ns0:Style id="s_ylw-pushpin_hl">
+		<ns0:IconStyle>
+			<ns0:scale>1.6</ns0:scale>
+			<ns0:Icon>
+				<ns0:href>http://maps.google.com/mapfiles/kml/shapes/campfire.png</ns0:href>
+			</ns0:Icon>
+			<ns0:hotSpot x="20" y="2" xunits="pixels" yunits="pixels" />
+		</ns0:IconStyle>
+	</ns0:Style>
+	<ns0:Style id="s_ylw-pushpin">
+		<ns0:IconStyle>
+			<ns0:scale>1.1</ns0:scale>
+			<ns0:Icon>
+				<ns0:href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</ns0:href>
+			</ns0:Icon>
+			<ns0:hotSpot x="20" y="2" xunits="pixels" yunits="pixels" />
+		</ns0:IconStyle>
+	</ns0:Style>
+	<ns0:StyleMap id="m_ylw-pushpin">
+		<ns0:Pair>
+			<ns0:key>normal</ns0:key>
+			<ns0:styleUrl>#s_ylw-pushpin</ns0:styleUrl>
+		</ns0:Pair>
+		<ns0:Pair>
+			<ns0:key>highlight</ns0:key>
+			<ns0:styleUrl>#s_ylw-pushpin_hl</ns0:styleUrl>
+		</ns0:Pair>
+	</ns0:StyleMap>
+	<ns0:Folder>
+		<ns0:name>Python</ns0:name>
+		<ns0:open>1</ns0:open>
+		<ns0:Placemark>
+			<ns0:name>punto 1</ns0:name>
+			<ns0:description>asdf</ns0:description>
+			<ns0:LookAt>
+				<ns0:longitude>-55.79177578272917</ns0:longitude>
+				<ns0:latitude>-33.04150541012881</ns0:latitude>
+				<ns0:altitude>100</ns0:altitude>
+				<ns0:heading>-0.09437052533898131</ns0:heading>
+				<ns0:tilt>0</ns0:tilt>
+				<ns0:range>343514.1877319817</ns0:range>
+				<ns1:altitudeMode>relativeToSeaFloor</ns1:altitudeMode>
+			</ns0:LookAt>
+			<ns0:styleUrl>#m_ylw-pushpin</ns0:styleUrl>
+			<ns1:balloonVisibility>1</ns1:balloonVisibility>
+			<ns0:Point>
+				<ns1:drawOrder>1</ns1:drawOrder>
+				<ns0:coordinates>-55.06526192960407,-32.80572852630497,0</ns0:coordinates>
+			</ns0:Point>
+		</ns0:Placemark>
+		<ns0:Placemark>
+			<ns0:name>Punto 2</ns0:name>
+			<ns0:LookAt>
+				<ns0:longitude>-55.88146856200056</ns0:longitude>
+				<ns0:latitude>-33.04159536639477</ns0:latitude>
+				<ns0:altitude>0</ns0:altitude>
+				<ns0:heading>-0.04546579212556549</ns0:heading>
+				<ns0:tilt>0</ns0:tilt>
+				<ns0:range>343499.5670227089</ns0:range>
+				<ns1:altitudeMode>relativeToSeaFloor</ns1:altitudeMode>
+			</ns0:LookAt>
+			<ns0:styleUrl>#m_ylw-pushpin</ns0:styleUrl>
+			<ns0:Point>
+				<ns1:drawOrder>1</ns1:drawOrder>
+				<ns0:coordinates>-56.31090671153598,-33.60150149377251,0</ns0:coordinates>
+			</ns0:Point>
+		</ns0:Placemark>
+	</ns0:Folder>
+</ns0:Document>
+</ns0:kml>

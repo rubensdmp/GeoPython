@@ -85,6 +85,6 @@
 				<ns0:coordinates>32.0,36.0,0</ns0:coordinates>
 			</ns0:Point>
 		</ns0:Placemark>
-	<ns0:Placemark><ns0:name>my first place</ns0:name><ns0:description>un lugar bonito</ns0:description><ns0:LookAt><ns0:longitude>-55.89177578272917</ns0:longitude><ns0:latitude>-33.14150541012881</ns0:latitude></ns0:LookAt><ns0:styleUrl>#m_ylw-pushpin</ns0:styleUrl><ns0:balloonVisibility>1</ns0:balloonVisibility><ns0:Point><ns0:drawOrder>1</ns0:drawOrder><ns0:coordinates>-55.89177578272917,-33.14150541012881,0</ns0:coordinates></ns0:Point></ns0:Placemark></ns0:Folder>
+	</ns0:Folder>
 </ns0:Document>
 </ns0:kml>

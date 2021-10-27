@@ -1,0 +1,1353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Smithsonian_VOTW_Holocene_Volcanoes.kml</name>
+	<open>1</open>
+	<Schema name="Smithsonian_VOTW_Holocene_Volcanoes_1" id="Smithsonian_VOTW_Holocene_Volcanoes_1">
+		<SimpleField type="int" name="Volcano_Number"></SimpleField>
+		<SimpleField type="string" name="Volcano_Name"></SimpleField>
+		<SimpleField type="string" name="Primary_Volcano_Type"></SimpleField>
+		<SimpleField type="int" name="Last_Eruption_Year"></SimpleField>
+		<SimpleField type="string" name="Country"></SimpleField>
+		<SimpleField type="string" name="Geological_Summary"></SimpleField>
+		<SimpleField type="string" name="Region"></SimpleField>
+		<SimpleField type="string" name="Subregion"></SimpleField>
+		<SimpleField type="string" name="Latitude"></SimpleField>
+		<SimpleField type="string" name="Longitude"></SimpleField>
+		<SimpleField type="short" name="Elevation"></SimpleField>
+		<SimpleField type="string" name="Tectonic_Setting"></SimpleField>
+		<SimpleField type="string" name="Geologic_Epoch"></SimpleField>
+		<SimpleField type="string" name="Evidence_Category"></SimpleField>
+		<SimpleField type="string" name="Primary_Photo_Link"></SimpleField>
+		<SimpleField type="string" name="Primary_Photo_Caption"></SimpleField>
+		<SimpleField type="string" name="Primary_Photo_Credit"></SimpleField>
+		<SimpleField type="string" name="Major_Rock_Type"></SimpleField>
+	</Schema>
+	<Folder>
+		<name>Smithsonian_VOTW_Holocene_Volcanoes</name>
+		<open>1</open>
+		<Placemark id="Smithsonian_VOTW_Holocene_Volcanoes.fid-36540bad_17c55274b59_-2ac">
+			<ExtendedData>
+				<SchemaData schemaUrl="#Smithsonian_VOTW_Holocene_Volcanoes_1">
+					<SimpleData name="Volcano_Number">210010</SimpleData>
+					<SimpleData name="Volcano_Name">West Eifel Volcanic Field</SimpleData>
+					<SimpleData name="Primary_Volcano_Type">Maar(s)</SimpleData>
+					<SimpleData name="Last_Eruption_Year">-8300</SimpleData>
+					<SimpleData name="Country">Germany</SimpleData>
+					<SimpleData name="Geological_Summary">The West Eifel Volcanic Field of western Germany, SW of the city of Bonn, is a dominantly Pleistocene group of 240 scoria cones, maars, and small stratovolcanoes covering an area of about 600 km2. The smaller, but better known, East Eifel Volcanic Field is about 40 km NE. Individual vents spread across a broad NW-SE-trending area extending about 50 km from the towns of Ormont on the NW to Bad Bertrich on the SE. Eruptions originated from a mantle plume through Devonian sedimentary and metamorphic rocks. Two-thirds of the volcanic centers in the field are scoria cones; lava flows have been produced from about half of them. About 30% of the centers are maars or tuff rings, many of which are occupied by lakes. About 230 eruptions have occurred during the past 730,000 years. The latest eruptions formed the Ulmener, Pulvermaar, and Strohn maars around the end of the Pleistocene and the beginning of the Holocene.</SimpleData>
+					<SimpleData name="Region">Mediterranean and Western Asia</SimpleData>
+					<SimpleData name="Subregion">Western Europe</SimpleData>
+					<SimpleData name="Latitude">50.170</SimpleData>
+					<SimpleData name="Longitude">6.850</SimpleData>
+					<SimpleData name="Elevation">600</SimpleData>
+					<SimpleData name="Tectonic_Setting">Rift zone / Continental crust (&gt; 25 km)</SimpleData>
+					<SimpleData name="Geologic_Epoch">Holocene</SimpleData>
+					<SimpleData name="Evidence_Category">Eruption Dated</SimpleData>
+					<SimpleData name="Primary_Photo_Link">https://volcano.si.edu/gallery/photos/GVP-01501.jpg</SimpleData>
+					<SimpleData name="Primary_Photo_Caption">The lake-filled Weinfelder maar is one of about 80 maars of the West Eifel Volcanic Field in Germany, west of the Rhine River. The roughly 500-m-wide crater was formed during the late Pleistocene by explosions through non-volcanic bedrock. About 230 eruptions during the past 730,000 years formed a 600 km2 area that includes maars, scoria cones, and small stratovolcanoes.</SimpleData>
+					<SimpleData name="Primary_Photo_Credit">Photo by Richard Waitt, 1990 (U.S. Geological Survey).</SimpleData>
+					<SimpleData name="Major_Rock_Type">Foidite</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>6.849999999999999,50.16999999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="Smithsonian_VOTW_Holocene_Volcanoes.fid-36540bad_17c55274b59_-2ab">
+			<ExtendedData>
+				<SchemaData schemaUrl="#Smithsonian_VOTW_Holocene_Volcanoes_1">
+					<SimpleData name="Volcano_Number">210020</SimpleData>
+					<SimpleData name="Volcano_Name">Chaine des Puys</SimpleData>
+					<SimpleData name="Primary_Volcano_Type">Lava dome(s)</SimpleData>
+					<SimpleData name="Last_Eruption_Year">-4040</SimpleData>
+					<SimpleData name="Country">France</SimpleData>
+					<SimpleData name="Geological_Summary">The Chaîne des Puys, prominent in the history of volcanology, form a N-S-trending chain of basaltic and trachytic cinder cones, basaltic maars, and trachytic lava domes in France&apos;s Massif Central that has been active into the Holocene. Construction of the present-day Chaîne des Puys began about 70,000 years before present (BP), and was largely completed by the beginning of the Holocene. Holocene eruptions constructed lava domes such as the Puy de Dôme, whose growth was accompanied by pyroclastic flows, cinder cones that fed lengthy lava flows, and maars. The latest well-documented activity took place about 6000 BP near Besse-en-Chandesse and included the powerful explosions that formed the Lac Pavin maar. The dating of younger tephras has not yet been confirmed, and reports of historical eruptions as late as 1000 BP have been discredited.</SimpleData>
+					<SimpleData name="Region">Mediterranean and Western Asia</SimpleData>
+					<SimpleData name="Subregion">Western Europe</SimpleData>
+					<SimpleData name="Latitude">45.775</SimpleData>
+					<SimpleData name="Longitude">2.970</SimpleData>
+					<SimpleData name="Elevation">1464</SimpleData>
+					<SimpleData name="Tectonic_Setting">Rift zone / Continental crust (&gt; 25 km)</SimpleData>
+					<SimpleData name="Geologic_Epoch">Holocene</SimpleData>
+					<SimpleData name="Evidence_Category">Eruption Dated</SimpleData>
+					<SimpleData name="Primary_Photo_Link">https://volcano.si.edu/gallery/photos/GVP-08802.jpg</SimpleData>
+					<SimpleData name="Primary_Photo_Caption">The central part of the Chaîne des Puys volcanic chain in the Auvergne region of France from the SW. Puy de Dôme is the rounded peak in the center, Puy de Côme is at the left, and Puy de Laschamp is the scoria cone at the right. The N-S-trending chain of basaltic and trachytic cones, basaltic maars, and trachytic lava domes in France&apos;s Massif Central has been active into the Holocene. The latest well-documented activity took place about 6,000 years ago.</SimpleData>
+					<SimpleData name="Primary_Photo_Credit">Photo by Ichio Moriya (Kanazawa University).</SimpleData>
+					<SimpleData name="Major_Rock_Type">Basalt / Picro-Basalt</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>2.97,45.775,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="Smithsonian_VOTW_Holocene_Volcanoes.fid-36540bad_17c55274b59_-2aa">
+			<ExtendedData>
+				<SchemaData schemaUrl="#Smithsonian_VOTW_Holocene_Volcanoes_1">
+					<SimpleData name="Volcano_Number">210030</SimpleData>
+					<SimpleData name="Volcano_Name">Olot Volcanic Field</SimpleData>
+					<SimpleData name="Primary_Volcano_Type">Pyroclastic cone(s)</SimpleData>
+					<SimpleData name="Country">Spain</SimpleData>
+					<SimpleData name="Geological_Summary">The Olot volcanic field (also known as the Garrotxa volcanic field) occupies the NE corner of Spain south of the Pyrenees Mountains about 90 km NNE of Barcelona.  The field consists of a large number of Strombolian pyroclastic cones and associated alkali basaltic lava flows, and is part of the NE Volcanic Province, which includes the Ampurdán and Selva areas to the SE.  The pyroclastic cones are preferentially located at the intersection of E-W and NW-SE faults that cut sedimentary and metamorphic basement rocks.  The latest dated eruption occurred during the early Holocene, and stratigraphic evidence suggests that more recent eruptions have occurred.</SimpleData>
+					<SimpleData name="Region">Mediterranean and Western Asia</SimpleData>
+					<SimpleData name="Subregion">Western Europe</SimpleData>
+					<SimpleData name="Latitude">42.170</SimpleData>
+					<SimpleData name="Longitude">2.530</SimpleData>
+					<SimpleData name="Elevation">893</SimpleData>
+					<SimpleData name="Tectonic_Setting">Intraplate / Continental crust (&gt; 25 km)</SimpleData>
+					<SimpleData name="Geologic_Epoch">Holocene</SimpleData>
+					<SimpleData name="Evidence_Category">Evidence Credible</SimpleData>
+					<SimpleData name="Primary_Photo_Link">https://volcano.si.edu/gallery/photos/GVP-11991.jpg</SimpleData>
+					<SimpleData name="Primary_Photo_Caption">The forested Volcà Montolivet scoria cone rises above the city of Olot, as seen from the Volcà Montsacopa scoria cone to the NE. The cone is part of a large volcanic field named after the city and occupies the NE corner of Spain, south of the Pyrenees Mountains and about 90 km NNE of Barcelona. The latest dated eruption at Olot (also known as the Garrotxa volcanic field) occurred during the early Holocene and stratigraphic evidence suggests that more recent eruptions have occurred.</SimpleData>
+					<SimpleData name="Primary_Photo_Credit">Photo by Puigalder (Wikimedia Commons).</SimpleData>
+					<SimpleData name="Major_Rock_Type">Trachybasalt / Tephrite Basanite</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>2.53,42.17,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="Smithsonian_VOTW_Holocene_Volcanoes.fid-36540bad_17c55274b59_-2a9">
+			<ExtendedData>
+				<SchemaData schemaUrl="#Smithsonian_VOTW_Holocene_Volcanoes_1">
+					<SimpleData name="Volcano_Number">210040</SimpleData>
+					<SimpleData name="Volcano_Name">Calatrava Volcanic Field</SimpleData>
+					<SimpleData name="Primary_Volcano_Type">Pyroclastic cone(s)</SimpleData>
+					<SimpleData name="Last_Eruption_Year">-3600</SimpleData>
+					<SimpleData name="Country">Spain</SimpleData>
+					<SimpleData name="Geological_Summary">The Calatrava volcanic field lies in central Spain near Ciudad Real. The more than 300 basaltic-to-foiditic pyroclastic cones, maars, and lava domes cover an area of more than 5000 km2. The field is mostly of Pliocene or late-Pleistocene age, although late-stage phreatomagmatic activity at Columba volcano was dated at the mid-Holocene. It lies in a continental rift setting and contains several lake-filled maars. Fumarolic activity was recorded in the Sierra de Valenzuela area during the 16th-18th centuries.</SimpleData>
+					<SimpleData name="Region">Mediterranean and Western Asia</SimpleData>
+					<SimpleData name="Subregion">Western Europe</SimpleData>
+					<SimpleData name="Latitude">38.870</SimpleData>
+					<SimpleData name="Longitude">-4.020</SimpleData>
+					<SimpleData name="Elevation">1117</SimpleData>
+					<SimpleData name="Tectonic_Setting">Intraplate / Continental crust (&gt; 25 km)</SimpleData>
+					<SimpleData name="Geologic_Epoch">Holocene</SimpleData>
+					<SimpleData name="Evidence_Category">Eruption Dated</SimpleData>
+					<SimpleData name="Primary_Photo_Link">https://volcano.si.edu/gallery/photos/GVP-11854.jpg</SimpleData>
+					<SimpleData name="Primary_Photo_Caption">Columba volcano, the youngest known vent of the dominantly Pliocene Calatrava Volcanic Field, rises above the Jabalón reservoir (foreground). The massive volcanic field covers an area of over 5,000 km2 and contains more than 300 cones, maars, and lava domes. This field is mostly of Pliocene or late-Pleistocene age, although late-stage phreatomagmatic activity at Columba volcano was dated at the mid-Holocene. Fumarolic activity was recorded in the Sierra de Valenzuela area during the 16th-18th centuries.</SimpleData>
+					<SimpleData name="Primary_Photo_Credit">Photo by Rafael Becerra Ramírez, 2006 (Universidad de Castilla-La Mancha).</SimpleData>
+					<SimpleData name="Major_Rock_Type">Basalt / Picro-Basalt</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-4.02,38.87,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="Smithsonian_VOTW_Holocene_Volcanoes.fid-36540bad_17c55274b59_-2a8">
+			<ExtendedData>
+				<SchemaData schemaUrl="#Smithsonian_VOTW_Holocene_Volcanoes_1">
+					<SimpleData name="Volcano_Number">211003</SimpleData>
+					<SimpleData name="Volcano_Name">Vulsini</SimpleData>
+					<SimpleData name="Primary_Volcano_Type">Caldera</SimpleData>
+					<SimpleData name="Last_Eruption_Year">-104</SimpleData>
+					<SimpleData name="Country">Italy</SimpleData>
+					<SimpleData name="Geological_Summary">The Vulsini volcanic complex in central Italy covers about 2,200 km2 at the northern end of the Roman Magmatic Province. Following lava extrusion and explosive eruptions that constructed the main complex, the 16-km-wide, lake-filled Bolsena caldera on the east and the 8 x 11 km Latera caldera on the west were formed during major Pleistocene explosive eruptions at about 0.3 and 0.16 million years ago, respectively. Five major Plinian fall deposits were erupted from vents at or near Latera caldera during the late Pleistocene. The latest major eruption formed unwelded pumice flows and welded airfall tuffs of the Pitigliano Formation, associated with collapse of the Vepe caldera about 166,000 years ago at the NW end of Latera caldera. Post-caldera volcanism produced scoria cones and lava flows from vents within and to the west of Latera caldera. Youthful-looking remnants of ash cones in Lake Bolsena may have given rise to a legend of a pre-historical fire-god, Volta. An historical report noted that &quot;a flame shot up near Volsini&quot; in 104 BCE.</SimpleData>
+					<SimpleData name="Region">Mediterranean and Western Asia</SimpleData>
+					<SimpleData name="Subregion">Italy</SimpleData>
+					<SimpleData name="Latitude">42.600</SimpleData>
+					<SimpleData name="Longitude">11.930</SimpleData>
+					<SimpleData name="Elevation">800</SimpleData>
+					<SimpleData name="Tectonic_Setting">Subduction zone / Continental crust (&gt; 25 km)</SimpleData>
+					<SimpleData name="Geologic_Epoch">Holocene</SimpleData>
+					<SimpleData name="Evidence_Category">Eruption Observed</SimpleData>
+					<SimpleData name="Primary_Photo_Link">https://volcano.si.edu/gallery/photos/GVP-01506.jpg</SimpleData>
+					<SimpleData name="Primary_Photo_Caption">The 16-km-wide Bolsena caldera containing Lago di Bolsena, is the most prominent feature of the Vulsini volcanic complex NW of Rome. The 2,000 km2 volcanic complex also includes the Latera caldera to the west. Both calderas were formed during the Pleistocene. Post-caldera eruptions produced scoria cones, lava flows, and youthful-looking cones that form islands in Lago di Bolsena.</SimpleData>
+					<SimpleData name="Primary_Photo_Credit">Photo by Richard Waitt, 1985 (U.S. Geological Survey).</SimpleData>
+					<SimpleData name="Major_Rock_Type">Trachyte / Trachydacite</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>11.93,42.6,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="Smithsonian_VOTW_Holocene_Volcanoes.fid-36540bad_17c55274b59_-2a7">
+			<ExtendedData>
+				<SchemaData schemaUrl="#Smithsonian_VOTW_Holocene_Volcanoes_1">
+					<SimpleData name="Volcano_Number">211004</SimpleData>
+					<SimpleData name="Volcano_Name">Colli Albani</SimpleData>
+					<SimpleData name="Primary_Volcano_Type">Caldera</SimpleData>
+					<SimpleData name="Country">Italy</SimpleData>
+					<SimpleData name="Geological_Summary">The Colli Albani (Alban Hills) complex immediately SE of Rome contains a large Pleistocene stratovolcano with a 10 x 12 km caldera formed during an eruptive period with six major explosions that produced at least 280 km3 of ejecta between about 560,000 and 350,000 years ago. Subsequent eruptions occurred from a new 5-km-wide central cone and from many phreatomagmatic craters and cones within the Artemisio-Tuscolana caldera and on its outer flanks. The post-caldera eruptions have buried the western side of the caldera rim. The largest of the post-caldera craters is Lake Albano, a 2.5 x 4 km compound maar constructed at the WSW margin of the caldera in multiple stages dating back to about 69,000 years ago. The age of the most recent eruptions from the Albano maar is not known precisely; variable dates range from about 36,000 years ago to perhaps the Holocene, when several possibly non-volcanic lake overflow lahars occurred.  Reported historical eruptions during the Roman period are uncertain, but subsequent seismic swarms lasting up to two years have been recorded.</SimpleData>
+					<SimpleData name="Region">Mediterranean and Western Asia</SimpleData>
+					<SimpleData name="Subregion">Italy</SimpleData>
+					<SimpleData name="Latitude">41.730</SimpleData>
+					<SimpleData name="Longitude">12.700</SimpleData>
+					<SimpleData name="Elevation">949</SimpleData>
+					<SimpleData name="Tectonic_Setting">Subduction zone / Continental crust (&gt; 25 km)</SimpleData>
+					<SimpleData name="Geologic_Epoch">Holocene</SimpleData>
+					<SimpleData name="Evidence_Category">Evidence Uncertain</SimpleData>
+					<SimpleData name="Primary_Photo_Link">https://volcano.si.edu/gallery/photos/GVP-08819.jpg</SimpleData>
+					<SimpleData name="Primary_Photo_Caption">The lake-filled Albano maar is part of the Alban Hills (Monte Albano) complex immediately SE of Rome. The Cavo scoria cone rises beyond the far rim. The Monte Albano complex contains a large Pleistocene stratovolcano with a 10-km-wide caldera. Subsequent eruptions occurred from a 5-km-wide central cone as well as craters and cones within the caldera and on its outer flanks. The youngest known magmatic eruption occurred during the late-Pleistocene.</SimpleData>
+					<SimpleData name="Primary_Photo_Credit">Photo by Ichio Moriya (Kanazawa University).</SimpleData>
+					<SimpleData name="Major_Rock_Type">Foidite</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>12.7,41.73,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="Smithsonian_VOTW_Holocene_Volcanoes.fid-36540bad_17c55274b59_-2a6">
+			<ExtendedData>
+				<SchemaData schemaUrl="#Smithsonian_VOTW_Holocene_Volcanoes_1">
+					<SimpleData name="Volcano_Number">211010</SimpleData>
+					<SimpleData name="Volcano_Name">Campi Flegrei</SimpleData>
+					<SimpleData name="Primary_Volcano_Type">Caldera</SimpleData>
+					<SimpleData name="Last_Eruption_Year">1538</SimpleData>
+					<SimpleData name="Country">Italy</SimpleData>
+					<SimpleData name="Geological_Summary">Campi Flegrei is a 13-km-wide caldera that encompasses part of Naples and extends to the south beneath the Gulf of Pozzuoli. Episodes of significant uplift and subsidence within the dominantly trachytic caldera have occurred since Roman times. The earliest known eruptive products are dated 47,000 years BP. The caldera formed following two large explosive eruptions, the massive Campanian ignimbrite about 36,000 BP, and the over 40 km3 Neapolitan Yellow Tuff (NYT) about 15,000 BP. Following eruption of the NYT a large number of eruptions originated from widely scattered subaerial and submarine vents. Most activity occurred during three intervals: 15,000-9,500, 8,600-8,200, and 4,800-3,800 BP. The latest eruption were in 1158 CE at Solfatara and activity in 1538 CE that formed the Monte Nuovo cinder cone.</SimpleData>
+					<SimpleData name="Region">Mediterranean and Western Asia</SimpleData>
+					<SimpleData name="Subregion">Italy</SimpleData>
+					<SimpleData name="Latitude">40.827</SimpleData>
+					<SimpleData name="Longitude">14.139</SimpleData>
+					<SimpleData name="Elevation">458</SimpleData>
+					<SimpleData name="Tectonic_Setting">Subduction zone / Continental crust (&gt; 25 km)</SimpleData>
+					<SimpleData name="Geologic_Epoch">Holocene</SimpleData>
+					<SimpleData name="Evidence_Category">Eruption Observed</SimpleData>
+					<SimpleData name="Primary_Photo_Link">https://volcano.si.edu/gallery/photos/GVP-01511.jpg</SimpleData>
+					<SimpleData name="Primary_Photo_Caption">A Landsat satellite image shows the Campi Flegrei caldera north of the Bay of Naples. The 13-km-wide caldera, immediately west of the city of Naples (upper right), was created following massive explosive eruptions about 34,000 and 12,000 years ago. Subsequent eruptions formed numerous craters and cones within the caldera and along its margins. The most recent eruption created the Monte Nuovo tuff cone in 1538.</SimpleData>
+					<SimpleData name="Primary_Photo_Credit">NASA Landsat image, 1984.</SimpleData>
+					<SimpleData name="Major_Rock_Type">Trachyte / Trachydacite</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>14.139,40.827,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="Smithsonian_VOTW_Holocene_Volcanoes.fid-36540bad_17c55274b59_-2a5">
+			<ExtendedData>
+				<SchemaData schemaUrl="#Smithsonian_VOTW_Holocene_Volcanoes_1">
+					<SimpleData name="Volcano_Number">211020</SimpleData>
+					<SimpleData name="Volcano_Name">Vesuvius</SimpleData>
+					<SimpleData name="Primary_Volcano_Type">Stratovolcano</SimpleData>
+					<SimpleData name="Last_Eruption_Year">1944</SimpleData>
+					<SimpleData name="Country">Italy</SimpleData>
+					<SimpleData name="Geological_Summary">One of the world&apos;s most noted volcanoes, Vesuvius (Vesuvio) forms a dramatic backdrop to the Bay of Naples. The historically active cone of Vesuvius was constructed within a large caldera of the ancestral Monte Somma volcano, thought to have formed incrementally beginning about 17,000 years ago. The Monte Somma caldera wall has channeled lava flows and pyroclastic flows primarily to the south and west. Eight major explosive eruptions have taken place in the last 17,000 years, often accompanied by large pyroclastic flows and surges, such as during the well-known 79 CE Pompeii eruption. Intermittent eruptions since 79 CE were followed by a period of frequent long-term explosive and effusive eruptions between 1631 and 1944. The large 1631 eruption produced pyroclastic flows that reached as far as the coast and caused great destruction. Many towns are located on the volcano&apos;s flanks, and several million people live within areas that could be affected by eruptions.</SimpleData>
+					<SimpleData name="Region">Mediterranean and Western Asia</SimpleData>
+					<SimpleData name="Subregion">Italy</SimpleData>
+					<SimpleData name="Latitude">40.821</SimpleData>
+					<SimpleData name="Longitude">14.426</SimpleData>
+					<SimpleData name="Elevation">1281</SimpleData>
+					<SimpleData name="Tectonic_Setting">Subduction zone / Continental crust (&gt; 25 km)</SimpleData>
+					<SimpleData name="Geologic_Epoch">Holocene</SimpleData>
+					<SimpleData name="Evidence_Category">Eruption Observed</SimpleData>
+					<SimpleData name="Primary_Photo_Link">https://volcano.si.edu/gallery/photos/GVP-01531.jpg</SimpleData>
+					<SimpleData name="Primary_Photo_Caption">Mount Vesuvius behind city of Naples. The modern cone of Vesuvius is flanked on the left by Monte Somma, the rim of a caldera that formed about 17,000 years ago. Eight major explosive eruptions have occurred since, including the 79 CE eruption that destroyed Pompeii and other towns. A period of frequent, long-duration eruptions began in 1631 and the latest eruption of Vesuvius was in 1944.</SimpleData>
+					<SimpleData name="Primary_Photo_Credit">Photo by Dan Dzurisin, 1983 (U.S. Geological Survey).</SimpleData>
+					<SimpleData name="Major_Rock_Type">Phono-tephrite /  Tephri-phonolite</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>14.426,40.821,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="Smithsonian_VOTW_Holocene_Volcanoes.fid-36540bad_17c55274b59_-2a4">
+			<ExtendedData>
+				<SchemaData schemaUrl="#Smithsonian_VOTW_Holocene_Volcanoes_1">
+					<SimpleData name="Volcano_Number">211031</SimpleData>
+					<SimpleData name="Volcano_Name">Palinuro</SimpleData>
+					<SimpleData name="Primary_Volcano_Type">Submarine</SimpleData>
+					<SimpleData name="Last_Eruption_Year">-8040</SimpleData>
+					<SimpleData name="Country">Italy</SimpleData>
+					<SimpleData name="Geological_Summary">Palinuro seamount in the Tyrrhenian Sea north of the Eolian Islands rises nearly 3000 m to within 70 m of the sea surface and has a horseshoe-shaped summit caldera.   A marine ash layer (PL-1) radiocarbon dated (calibrated age) at 9990 +/- 90 years ago is chemically and stratigraphically similiar to two ash layers of similar composition onland in southern Italy and was tentatively correlated to the Palinuro seamount activity (Siani et al., 2004).</SimpleData>
+					<SimpleData name="Region">Mediterranean and Western Asia</SimpleData>
+					<SimpleData name="Subregion">Italy</SimpleData>
+					<SimpleData name="Latitude">39.480</SimpleData>
+					<SimpleData name="Longitude">14.830</SimpleData>
+					<SimpleData name="Elevation">-70</SimpleData>
+					<SimpleData name="Tectonic_Setting">Subduction zone / Continental crust (&gt; 25 km)</SimpleData>
+					<SimpleData name="Geologic_Epoch">Holocene</SimpleData>
+					<SimpleData name="Evidence_Category">Eruption Dated</SimpleData>
+					<SimpleData name="Major_Rock_Type">Phonolite</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>14.83,39.48,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="Smithsonian_VOTW_Holocene_Volcanoes.fid-36540bad_17c55274b59_-2a3">
+			<ExtendedData>
+				<SchemaData schemaUrl="#Smithsonian_VOTW_Holocene_Volcanoes_1">
+					<SimpleData name="Volcano_Number">211030</SimpleData>
+					<SimpleData name="Volcano_Name">Ischia</SimpleData>
+					<SimpleData name="Primary_Volcano_Type">Complex</SimpleData>
+					<SimpleData name="Last_Eruption_Year">1302</SimpleData>
+					<SimpleData name="Country">Italy</SimpleData>
+					<SimpleData name="Geological_Summary">The Ischia volcanic complex forms a rectangular, 6 x 9 km island immediately SW of the Campi Flegrei area at the western side of the Bay of Naples. The eruption of the trachytic Green Tuff ignimbrite about 56,000 years ago was followed by caldera formation. The high point on the island, Monte Epomeo, is a volcanic horst composed of the Green Tuff ignimbrite deposit that was submerged after its eruption and then uplifted. Volcanism on the island has been significantly affected by tectonism that formed a series of horsts and grabens; at least 800 m of uplift has formed as a result of resurgent doming during past 33,000 years. Many small monogenetic volcanoes were formed around the uplifted block. Volcanism during the Holocene produced a series of pumiceous tephras, tuff rings, lava domes, and lava flows, and a major collapse of Mount Epomeo produced a large submarine debris-avalanche deposit. The latest eruption, in 1302 CE, produced a spatter cone and the Arso lava flow, which reached the NE coast.</SimpleData>
+					<SimpleData name="Region">Mediterranean and Western Asia</SimpleData>
+					<SimpleData name="Subregion">Italy</SimpleData>
+					<SimpleData name="Latitude">40.730</SimpleData>
+					<SimpleData name="Longitude">13.897</SimpleData>
+					<SimpleData name="Elevation">789</SimpleData>
+					<SimpleData name="Tectonic_Setting">Subduction zone / Continental crust (&gt; 25 km)</SimpleData>
+					<SimpleData name="Geologic_Epoch">Holocene</SimpleData>
+					<SimpleData name="Evidence_Category">Eruption Observed</SimpleData>
+					<SimpleData name="Primary_Photo_Link">https://volcano.si.edu/gallery/photos/GVP-10474.jpg</SimpleData>
+					<SimpleData name="Primary_Photo_Caption">The Ischia volcanic complex forms a 6 x 9 km island W of the Bay of Naples seen in this International Space Station image. Tectonism has influenced volcanic activity at Ischia, and its high point (the dark-colored area in the center) is a horst (raised fault block) composed of ignimbrite deposits associated with Pleistocene caldera formation. During the Holocene, a series of pumiceous tephras, tuff rings, lava domes, and lava flows were erupted.</SimpleData>
+					<SimpleData name="Primary_Photo_Credit">NASA International Space Station image ISS002-E-8200, 2001 (http://eol.jsc.nasa.gov/).</SimpleData>
+					<SimpleData name="Major_Rock_Type">Trachyte / Trachydacite</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>13.897,40.73,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="Smithsonian_VOTW_Holocene_Volcanoes.fid-36540bad_17c55274b59_-2a2">
+			<ExtendedData>
+				<SchemaData schemaUrl="#Smithsonian_VOTW_Holocene_Volcanoes_1">
+					<SimpleData name="Volcano_Number">211041</SimpleData>
+					<SimpleData name="Volcano_Name">Panarea</SimpleData>
+					<SimpleData name="Primary_Volcano_Type">Stratovolcano</SimpleData>
+					<SimpleData name="Country">Italy</SimpleData>
+					<SimpleData name="Geological_Summary">The mostly submerged Panarea volcanic complex lies about midway between Stromboli and Lipari in the eastern part of the Aeolian Islands. Panarea, the smallest island in the Aeolian Archipelago, lies on the western side of a shallow platform whose shelf margin is at about 130 m depth.  A series of small islands breach the surface to form the Central Reefs, the rim of a crater 2 km E of Panarea, whose shallow submerged floor contains Roman ruins.  The submerged Secca dei Pesci lava dome lies at the SE end of the platform, and the rhyolitic Basiluzzo lava dome rises 165 m above the surface at the NE end, along a ridge trending towards Stromboli volcano.  The complex was constructed in two main stages: an initial effusive activity phase that produced lava domes, and an explosive stage.  The youngest subaerial airfall-tephra deposits are dated to about 20,000 years ago; a date of less then 10,000 BP on a lava flow is uncertain. Vigorous hydrothermal activity has continued at fumarolic fields at several locations on the submerged platform; submarine hydrothermal explosions have occurred in historical time.</SimpleData>
+					<SimpleData name="Region">Mediterranean and Western Asia</SimpleData>
+					<SimpleData name="Subregion">Italy</SimpleData>
+					<SimpleData name="Latitude">38.638</SimpleData>
+					<SimpleData name="Longitude">15.064</SimpleData>
+					<SimpleData name="Elevation">399</SimpleData>
+					<SimpleData name="Tectonic_Setting">Subduction zone / Continental crust (&gt; 25 km)</SimpleData>
+					<SimpleData name="Geologic_Epoch">Holocene</SimpleData>
+					<SimpleData name="Evidence_Category">Evidence Uncertain</SimpleData>
+					<SimpleData name="Primary_Photo_Link">https://volcano.si.edu/gallery/photos/GVP-10391.jpg</SimpleData>
+					<SimpleData name="Primary_Photo_Caption">Panarea Island is the largest subaerial component of a mostly submarine volcanic complex between Lipari and Stromboli volcanoes. The last eruptions took place during the early Holocene, but hydrothermal activity has continued at fumarolic fields at several locations on the submerged platform. The water discoloration in the foreground, 2 km E of Panarea Island, near the small islands took place during November 2002.</SimpleData>
+					<SimpleData name="Primary_Photo_Credit">Photo courtesy of Istituto Nazionale di Geofisica e Vulcanologia, Sezione di Catania (INGV), 2002.</SimpleData>
+					<SimpleData name="Major_Rock_Type">Andesite / Basaltic Andesite</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>15.064,38.638,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="Smithsonian_VOTW_Holocene_Volcanoes.fid-36540bad_17c55274b59_-2a1">
+			<ExtendedData>
+				<SchemaData schemaUrl="#Smithsonian_VOTW_Holocene_Volcanoes_1">
+					<SimpleData name="Volcano_Number">211042</SimpleData>
+					<SimpleData name="Volcano_Name">Lipari</SimpleData>
+					<SimpleData name="Primary_Volcano_Type">Stratovolcano(es)</SimpleData>
+					<SimpleData name="Last_Eruption_Year">1230</SimpleData>
+					<SimpleData name="Country">Italy</SimpleData>
+					<SimpleData name="Geological_Summary">Lipari, the largest of the Aeolian Islands, is located immediately north of Vulcano Island. The irregular-shaped island contains numerous small stratovolcanoes, craters, and lava domes on a basement of submarine volcanic deposits. Lipari was formed in three major eruptive cycles, the first of which took place from about 223 to 188 thousand years ago (ka) from N-S-trending fissures on the western side of the island. The second eruptive period from about 102 to 53 ka included the formation of the Monte San Angelo and Costa d&apos;Agosto stratovolcanoes in the center of the island. The third eruptive cycle (40 ka to the present) included the Monte Guardia sequence, erupted at the southern tip of the island between about 22,600 and 16,800 years ago, and Holocene rhyolitic pyroclastic deposits and obsidian lava flows at the NE end of the island. The latest eruption, at Monte Pilato on the NE tip of the island, formed the Rocche Rosse and Forgia Vecchia obsidian lava flows, which have been dated variously from about 500 to 1230 CE. Objects made of obsidian from Lipari have been found throughout southern Italy.</SimpleData>
+					<SimpleData name="Region">Mediterranean and Western Asia</SimpleData>
+					<SimpleData name="Subregion">Italy</SimpleData>
+					<SimpleData name="Latitude">38.490</SimpleData>
+					<SimpleData name="Longitude">14.933</SimpleData>
+					<SimpleData name="Elevation">590</SimpleData>
+					<SimpleData name="Tectonic_Setting">Subduction zone / Continental crust (&gt; 25 km)</SimpleData>
+					<SimpleData name="Geologic_Epoch">Holocene</SimpleData>
+					<SimpleData name="Evidence_Category">Eruption Dated</SimpleData>
+					<SimpleData name="Primary_Photo_Link">https://volcano.si.edu/gallery/photos/GVP-01535.jpg</SimpleData>
+					<SimpleData name="Primary_Photo_Caption">Lipari, the largest of Italy&apos;s Aeolian Islands, was constructed during four eruptive cycles beginning around 100,000 years ago. Monte Giardina lava dome on the S side of the island, seen here from the NE with Lipari city in the foreground, formed during about 23,000 to 17,000 years ago. Holocene eruptions formed the Pomiciazzo lava dome and the Rocche Rosse and Forgia Vecchia obsidian flows.</SimpleData>
+					<SimpleData name="Primary_Photo_Credit">Photo by Richard Waitt, 1985 (U.S. Geological Survey).</SimpleData>
+					<SimpleData name="Major_Rock_Type">Rhyolite</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>14.933,38.49,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="Smithsonian_VOTW_Holocene_Volcanoes.fid-36540bad_17c55274b59_-2a0">
+			<ExtendedData>
+				<SchemaData schemaUrl="#Smithsonian_VOTW_Holocene_Volcanoes_1">
+					<SimpleData name="Volcano_Number">211040</SimpleData>
+					<SimpleData name="Volcano_Name">Stromboli</SimpleData>
+					<SimpleData name="Primary_Volcano_Type">Stratovolcano</SimpleData>
+					<SimpleData name="Last_Eruption_Year">2021</SimpleData>
+					<SimpleData name="Country">Italy</SimpleData>
+					<SimpleData name="Geological_Summary">Spectacular incandescent nighttime explosions at this volcano have long attracted visitors to the &quot;Lighthouse of the Mediterranean.&quot;  Stromboli, the NE-most of the Aeolian Islands, has lent its name to the frequent mild explosive activity that has characterized its eruptions throughout much of historical time. The small island is the emergent summit of a volcano that grew in two main eruptive cycles, the last of which formed the western portion of the island. The Neostromboli eruptive period took place between about 13,000 and 5,000 years ago. The active summit vents are located at the head of the Sciara del Fuoco, a prominent horseshoe-shaped scarp formed about 5,000 years ago due to a series of slope failures that extend to below sea level. The modern volcano has been constructed within this scarp, which funnels pyroclastic ejecta and lava flows to the NW. Essentially continuous mild Strombolian explosions, sometimes accompanied by lava flows, have been recorded for more than a millennium.</SimpleData>
+					<SimpleData name="Region">Mediterranean and Western Asia</SimpleData>
+					<SimpleData name="Subregion">Italy</SimpleData>
+					<SimpleData name="Latitude">38.789</SimpleData>
+					<SimpleData name="Longitude">15.213</SimpleData>
+					<SimpleData name="Elevation">924</SimpleData>
+					<SimpleData name="Tectonic_Setting">Subduction zone / Continental crust (&gt; 25 km)</SimpleData>
+					<SimpleData name="Geologic_Epoch">Holocene</SimpleData>
+					<SimpleData name="Evidence_Category">Eruption Observed</SimpleData>
+					<SimpleData name="Primary_Photo_Link">https://volcano.si.edu/gallery/photos/GVP-09131.jpg</SimpleData>
+					<SimpleData name="Primary_Photo_Caption">This view of Stromboli shows the NE tip of the island with the Rina Grande valley at the left. The principal historically active vent of Stromboli lies at the head of the Sciarra del Fuoco, a prominent scarp on the opposite side of the island. Stromboli, the NE-most of the Aeolian Islands, has produced frequent mild explosions throughout much of historical time.</SimpleData>
+					<SimpleData name="Primary_Photo_Credit">Photo by Guiseppina Kysar, 1999 (Smithsonian Institution).</SimpleData>
+					<SimpleData name="Major_Rock_Type">Trachyandesite / Basaltic Trachyandesite</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>15.213,38.789,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="Smithsonian_VOTW_Holocene_Volcanoes.fid-36540bad_17c55274b59_-29f">
+			<ExtendedData>
+				<SchemaData schemaUrl="#Smithsonian_VOTW_Holocene_Volcanoes_1">
+					<SimpleData name="Volcano_Number">211050</SimpleData>
+					<SimpleData name="Volcano_Name">Vulcano</SimpleData>
+					<SimpleData name="Primary_Volcano_Type">Stratovolcano(es)</SimpleData>
+					<SimpleData name="Last_Eruption_Year">1890</SimpleData>
+					<SimpleData name="Country">Italy</SimpleData>
+					<SimpleData name="Geological_Summary">The word volcano is derived from Vulcano stratovolcano in Italy&apos;s Aeolian Islands. Vulcano was constructed during six stages over the past 136,000 years. Two overlapping calderas, the 2.5-km-wide Caldera del Piano on the SE and the 4-km-wide Caldera della Fossa on the NW, were formed at about 100,000 and 24,000-15,000 years ago, respectively, and volcanism has migrated north over time. La Fossa cone, active throughout the Holocene and the location of most historical eruptions, occupies the 3-km-wide Caldera della Fossa at the NW end of the elongated 3 x 7 km island. The Vulcanello lava platform is a low, roughly circular peninsula on the northern tip of Vulcano that was formed as an island beginning more than 2,000 years ago and was connected to the main island in about 1550 CE. Vulcanello is capped by three pyroclastic cones and was active intermittently until the 16th century. The latest eruption from Vulcano consisted of explosive activity from the Fossa cone from 1898 to 1900.</SimpleData>
+					<SimpleData name="Region">Mediterranean and Western Asia</SimpleData>
+					<SimpleData name="Subregion">Italy</SimpleData>
+					<SimpleData name="Latitude">38.404</SimpleData>
+					<SimpleData name="Longitude">14.962</SimpleData>
+					<SimpleData name="Elevation">500</SimpleData>
+					<SimpleData name="Tectonic_Setting">Subduction zone / Continental crust (&gt; 25 km)</SimpleData>
+					<SimpleData name="Geologic_Epoch">Holocene</SimpleData>
+					<SimpleData name="Evidence_Category">Eruption Observed</SimpleData>
+					<SimpleData name="Primary_Photo_Link">https://volcano.si.edu/gallery/photos/GVP-01541.jpg</SimpleData>
+					<SimpleData name="Primary_Photo_Caption">The island of Vulcano in Italy&apos;s Aeolian Islands is seen here from the volcano observatory on the island of Lipari to the north, with the volcanic peninsula of Vulcanello, initially formed in 183 BCE, in the foreground and Fossa cone in the background. Vulcano consists of at least three volcanic complexes, each of which is truncated by a small caldera. Volcanism has migrated to the north with Fossa cone being the dominant Holocene center. The latest eruption took place from 1888 to 1890.</SimpleData>
+					<SimpleData name="Primary_Photo_Credit">Photo by Richard Waitt, 1985 (U.S. Geological Survey).</SimpleData>
+					<SimpleData name="Major_Rock_Type">Trachybasalt / Tephrite Basanite</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>14.962,38.404,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="Smithsonian_VOTW_Holocene_Volcanoes.fid-36540bad_17c55274b59_-29e">
+			<ExtendedData>
+				<SchemaData schemaUrl="#Smithsonian_VOTW_Holocene_Volcanoes_1">
+					<SimpleData name="Volcano_Number">211060</SimpleData>
+					<SimpleData name="Volcano_Name">Etna</SimpleData>
+					<SimpleData name="Primary_Volcano_Type">Stratovolcano(es)</SimpleData>
+					<SimpleData name="Last_Eruption_Year">2021</SimpleData>
+					<SimpleData name="Country">Italy</SimpleData>
+					<SimpleData name="Geological_Summary">Mount Etna, towering above Catania, Sicily&apos;s second largest city, has one of the world&apos;s longest documented records of historical volcanism, dating back to 1500 BCE. Historical lava flows of basaltic composition cover much of the surface of this massive volcano, whose edifice is the highest and most voluminous in Italy.  The Mongibello stratovolcano, truncated by several small calderas, was constructed during the late Pleistocene and Holocene over an older shield volcano. The most prominent morphological feature of Etna is the Valle del Bove, a 5 x 10 km horseshoe-shaped caldera open to the east. Two styles of eruptive activity typically occur, sometimes simultaneously. Persistent explosive eruptions, sometimes with minor lava emissions, take place from one or more summit craters. Flank vents, typically with higher effusion rates, are less frequently active and originate from fissures that open progressively downward from near the summit (usually accompanied by Strombolian eruptions at the upper end). Cinder cones are commonly constructed over the vents of lower-flank lava flows. Lava flows extend to the foot of the volcano on all sides and have reached the sea over a broad area on the SE flank.</SimpleData>
+					<SimpleData name="Region">Mediterranean and Western Asia</SimpleData>
+					<SimpleData name="Subregion">Italy</SimpleData>
+					<SimpleData name="Latitude">37.748</SimpleData>
+					<SimpleData name="Longitude">14.999</SimpleData>
+					<SimpleData name="Elevation">3320</SimpleData>
+					<SimpleData name="Tectonic_Setting">Subduction zone / Continental crust (&gt; 25 km)</SimpleData>
+					<SimpleData name="Geologic_Epoch">Holocene</SimpleData>
+					<SimpleData name="Evidence_Category">Eruption Observed</SimpleData>
+					<SimpleData name="Primary_Photo_Link">https://volcano.si.edu/gallery/photos/GVP-01552.jpg</SimpleData>
+					<SimpleData name="Primary_Photo_Caption">Etna is Europe&apos;s highest volcano, towering above the city of Taormina on its NE flank. One of the world&apos;s longest documented historical records continues, dating back to the 2nd millennium BCE. Historical lava flows cover much of the surface of this 40 x 60 km wide basaltic stratovolcano and extend to the sea. Eruptions occur both from persistently active summit craters and intermittently from flank fissures and cones.</SimpleData>
+					<SimpleData name="Primary_Photo_Credit">Photo by Jean-Claude Tanguy, 1991 (University of Paris).</SimpleData>
+					<SimpleData name="Major_Rock_Type">Trachybasalt / Tephrite Basanite</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>14.999,37.748,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="Smithsonian_VOTW_Holocene_Volcanoes.fid-36540bad_17c55274b59_-29d">
+			<ExtendedData>
+				<SchemaData schemaUrl="#Smithsonian_VOTW_Holocene_Volcanoes_1">
+					<SimpleData name="Volcano_Number">211071</SimpleData>
+					<SimpleData name="Volcano_Name">Pantelleria</SimpleData>
+					<SimpleData name="Primary_Volcano_Type">Shield</SimpleData>
+					<SimpleData name="Last_Eruption_Year">1891</SimpleData>
+					<SimpleData name="Country">Italy</SimpleData>
+					<SimpleData name="Geological_Summary">The island of Pantelleria is constructed above a drowned continental rift in the Strait of Sicily and has been the locus of intensive volcano-tectonic activity. Two large Pleistocene calderas dominate the island, which contains numerous post-caldera lava domes and cinder cones and is the type locality for peralkaline rhyolitic rocks, pantellerites.  The 15-km-long island is the emergent summit of a largely submarine edifice. The 6-km-wide Cinque Denti caldera, the youngest of the two calderas, formed about 45,000 years ago and contains the two post-caldera shield volcanoes of Monte Grande and Monte Gibele.  Holocene eruptions have constructed pumice cones, lava domes, and short, blocky lava flows. Many Holocene vents are located on three sides of the uplifted Montagna Grande block on the SE side of the island. A submarine eruption in 1891 from a vent ~4 km off the NW coast is the only confirmed historical activity.</SimpleData>
+					<SimpleData name="Region">Mediterranean and Western Asia</SimpleData>
+					<SimpleData name="Subregion">Italy</SimpleData>
+					<SimpleData name="Latitude">36.770</SimpleData>
+					<SimpleData name="Longitude">12.020</SimpleData>
+					<SimpleData name="Elevation">836</SimpleData>
+					<SimpleData name="Tectonic_Setting">Rift zone / Continental crust (&gt; 25 km)</SimpleData>
+					<SimpleData name="Geologic_Epoch">Holocene</SimpleData>
+					<SimpleData name="Evidence_Category">Eruption Observed</SimpleData>
+					<SimpleData name="Primary_Photo_Link">https://volcano.si.edu/gallery/photos/GVP-11502.jpg</SimpleData>
+					<SimpleData name="Primary_Photo_Caption">The 15-km-long island of Pantelleria is constructed above a drowned continental rift in the Strait of Sicily. Part of the mostly buried arcuate rims of two large Pleistocene calderas are seen in this NASA Landsat image (with N to the top). The SE rims of the calderas form the two dark-colored lines at the lower right part of the island, below and to the right of the forested Monte Grande and Monte Gibele volcanoes. Monte Gibele, with its circular summit crater, was constructed in the southern part of the younger Cinque Denti caldera.</SimpleData>
+					<SimpleData name="Primary_Photo_Credit">NASA Landsat 7 image (worldwind.arc.nasa.gov)</SimpleData>
+					<SimpleData name="Major_Rock_Type">Rhyolite</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>12.02,36.77,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="Smithsonian_VOTW_Holocene_Volcanoes.fid-36540bad_17c55274b59_-29c">
+			<ExtendedData>
+				<SchemaData schemaUrl="#Smithsonian_VOTW_Holocene_Volcanoes_1">
+					<SimpleData name="Volcano_Number">211070</SimpleData>
+					<SimpleData name="Volcano_Name">Campi Flegrei del Mar di Sicilia</SimpleData>
+					<SimpleData name="Primary_Volcano_Type">Submarine</SimpleData>
+					<SimpleData name="Last_Eruption_Year">1867</SimpleData>
+					<SimpleData name="Country">Italy</SimpleData>
+					<SimpleData name="Geological_Summary">Campi Flegrei del Mar di Sicilia (Phlegraean Fields of the Sicily Sea) is composed of a group of submarine volcanoes SW of Sicily. The volcanoes were constructed within a submarine depression about 1 km deep in the Strait of Sicily between the SW coast of Sicily and the NE tip of Tunisia, forming submarine banks that are capped by cones that rise to near sea level. Submarine eruptions were reported at the Giulia-Ferdinandeo and Pinne banks during the first Punic war (264-241 BCE), and from the 17th to 20th centuries, sometimes producing ephemeral islands. The 1831 eruption at Ferdinandea (also known as Graham in English or Giulia/Julia in French) produced an ephemeral island that was promptly claimed by the navies of France, Britain, Spain, and Italy.</SimpleData>
+					<SimpleData name="Region">Mediterranean and Western Asia</SimpleData>
+					<SimpleData name="Subregion">Italy</SimpleData>
+					<SimpleData name="Latitude">37.100</SimpleData>
+					<SimpleData name="Longitude">12.700</SimpleData>
+					<SimpleData name="Elevation">-8</SimpleData>
+					<SimpleData name="Tectonic_Setting">Rift zone / Continental crust (&gt; 25 km)</SimpleData>
+					<SimpleData name="Geologic_Epoch">Holocene</SimpleData>
+					<SimpleData name="Evidence_Category">Eruption Observed</SimpleData>
+					<SimpleData name="Primary_Photo_Link">https://volcano.si.edu/gallery/photos/GVP-00099.jpg</SimpleData>
+					<SimpleData name="Primary_Photo_Caption">An eruption at Graham Island (Giulia Ferdinandeo) in the Sicilian Sea in 1831. A new island was formed that was promptly claimed by Italy, France, Britain, and Spain. The island quickly eroded to beneath the sea surface after the eruption ended. Graham Island (also known as Ferdinandeo Bank) is part of the Campi Flegrei del Mar di Sicilia (Phlegraean Fields of the Sicily Sea), a group of submarine volcanoes constructed within a depression about 1,000 m deep, SW of Sicily.</SimpleData>
+					<SimpleData name="Primary_Photo_Credit">From the collection of Maurice and Katia Krafft (published in Simkin and Siebert, 1994).</SimpleData>
+					<SimpleData name="Major_Rock_Type">Trachybasalt / Tephrite Basanite</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>12.7,37.1,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="Smithsonian_VOTW_Holocene_Volcanoes.fid-36540bad_17c55274b59_-29b">
+			<ExtendedData>
+				<SchemaData schemaUrl="#Smithsonian_VOTW_Holocene_Volcanoes_1">
+					<SimpleData name="Volcano_Number">212020</SimpleData>
+					<SimpleData name="Volcano_Name">Methana</SimpleData>
+					<SimpleData name="Primary_Volcano_Type">Lava dome(s)</SimpleData>
+					<SimpleData name="Last_Eruption_Year">-258</SimpleData>
+					<SimpleData name="Country">Greece</SimpleData>
+					<SimpleData name="Geological_Summary">Methana volcano consists of a basaltic-andesite to rhyodacitic lava dome complex forming the Methana Peninsula in the Sarronian Gulf on the NE side of Peloponnesus. Potassium-Argon ages for the older part of the complex range from 900,000 to 550,000 years, although activity may have begun during the late Pliocene. A younger phase of activity took place from about 380,000-290,000 years ago, forming a series of lava domes and flows. The youngest dome, Kameno Vouno, on the NW side of the peninsula, was formed in the 3rd century BCE and produced a lava flow that traveled 500 m beyond the coastline. Hot springs are found at several locations along the coast of the peninsula.</SimpleData>
+					<SimpleData name="Region">Mediterranean and Western Asia</SimpleData>
+					<SimpleData name="Subregion">Greece</SimpleData>
+					<SimpleData name="Latitude">37.615</SimpleData>
+					<SimpleData name="Longitude">23.336</SimpleData>
+					<SimpleData name="Elevation">760</SimpleData>
+					<SimpleData name="Tectonic_Setting">Subduction zone / Continental crust (&gt; 25 km)</SimpleData>
+					<SimpleData name="Geologic_Epoch">Holocene</SimpleData>
+					<SimpleData name="Evidence_Category">Eruption Observed</SimpleData>
+					<SimpleData name="Primary_Photo_Link">https://volcano.si.edu/gallery/photos/GVP-08809.jpg</SimpleData>
+					<SimpleData name="Primary_Photo_Caption">Malja Khoriou lava dome, seen here from the SE, lies on the eastern side of the Methana Peninsula and is one of several lava domes forming the Methana volcanic complex. The peninsula extends into the Sarronian Gulf on the NE side of the Peloponnesus Peninsula. Kameno Vouno is the youngest dome, located on the NW side of the Peninsula where it formed in the 3rd century BCE and produced a lava flow that traveled 500 m beyond the coastline.</SimpleData>
+					<SimpleData name="Primary_Photo_Credit">Photo by Ichio Moriya (Kanazawa University).</SimpleData>
+					<SimpleData name="Major_Rock_Type">Andesite / Basaltic Andesite</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>23.33599999999999,37.615,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="Smithsonian_VOTW_Holocene_Volcanoes.fid-36540bad_17c55274b59_-29a">
+			<ExtendedData>
+				<SchemaData schemaUrl="#Smithsonian_VOTW_Holocene_Volcanoes_1">
+					<SimpleData name="Volcano_Number">212030</SimpleData>
+					<SimpleData name="Volcano_Name">Milos</SimpleData>
+					<SimpleData name="Primary_Volcano_Type">Stratovolcano(es)</SimpleData>
+					<SimpleData name="Last_Eruption_Year">140</SimpleData>
+					<SimpleData name="Country">Greece</SimpleData>
+					<SimpleData name="Geological_Summary">Mílos and adjacent small islands have grown from submarine and subaerial volcanism that initially was dominantly andesitic and basaltic, but ended with predominately rhyolitic eruptions. The oldest volcanic rocks are Pliocene submarine rhyolitic pyroclastic-flow deposits overlying basement metamorphic and sedimentary rocks. The latest activity during the late Pleistocene was concentrated in the eastern half of the low, U-shaped Mílos Island, forming lava domes and phreatic explosion craters, and on Antimílos Island to the NW, where a composite volcano was constructed. The youngest magmatic eruptions took place about 90,000 years ago, but phreatic explosions, commonly producing overlapping craters rarely more than 1 km in diameter, continued from late-Pleistocene to Recent times. A lahar deposit in SE Mílos, east of Fyriplaka tuff ring, buried walls of a Roman harbor town and overlies a coarse ash layer, and was considered to originate from a small phreatic explosion through basement rocks.</SimpleData>
+					<SimpleData name="Region">Mediterranean and Western Asia</SimpleData>
+					<SimpleData name="Subregion">Greece</SimpleData>
+					<SimpleData name="Latitude">36.699</SimpleData>
+					<SimpleData name="Longitude">24.439</SimpleData>
+					<SimpleData name="Elevation">751</SimpleData>
+					<SimpleData name="Tectonic_Setting">Subduction zone / Continental crust (&gt; 25 km)</SimpleData>
+					<SimpleData name="Geologic_Epoch">Holocene</SimpleData>
+					<SimpleData name="Evidence_Category">Eruption Dated</SimpleData>
+					<SimpleData name="Primary_Photo_Link">https://volcano.si.edu/gallery/photos/GVP-08815.jpg</SimpleData>
+					<SimpleData name="Primary_Photo_Caption">The western side of Mílos Island contains a cluster of lava domes. Mílos and adjacent small islands have grown from submarine and subaerial volcanism that initially was dominantly andesitic and basaltic, but ended with primarily rhyolitic eruptions. Phreatic explosions, commonly producing overlapping craters typically less than 1 km in diameter, continued from late-Pleistocene to Holocene time.</SimpleData>
+					<SimpleData name="Primary_Photo_Credit">Photo by Ichio Moriya (Kanazawa University).</SimpleData>
+					<SimpleData name="Major_Rock_Type">Rhyolite</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>24.439,36.699,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="Smithsonian_VOTW_Holocene_Volcanoes.fid-36540bad_17c55274b59_-299">
+			<ExtendedData>
+				<SchemaData schemaUrl="#Smithsonian_VOTW_Holocene_Volcanoes_1">
+					<SimpleData name="Volcano_Number">212040</SimpleData>
+					<SimpleData name="Volcano_Name">Santorini</SimpleData>
+					<SimpleData name="Primary_Volcano_Type">Shield(s)</SimpleData>
+					<SimpleData name="Last_Eruption_Year">1950</SimpleData>
+					<SimpleData name="Country">Greece</SimpleData>
+					<SimpleData name="Geological_Summary">Renowned Santorini (Thera), with its steep-walled caldera rim draped by whitewashed villages overlooking an active volcanic island in the center of a caldera bay, is one of the scenic highlights of the Aegean. The circular island group is composed of overlapping shield volcanoes cut by at least four partially overlapping calderas. The oldest southern caldera was formed about 180,000 years before present (BP), followed by the Skaros caldera about 70,000 years BP, and then the Cape Riva caldera about 21,000 years BP. The youngest caldera formed about 3600 years BP during the Late-Bronze-Age Minoan eruption  that forced abandonment of the thriving Aegean Sea island. Post-Minoan eruptions beginning in 197 BCE constructed a series of lava domes and flows that form two islands near the center of the caldera. A submarine eruption took place in 1650 CE outside the caldera NE of Thera. The latest eruption produced a small lava dome and flow in 1950, accompanied by explosive activity.</SimpleData>
+					<SimpleData name="Region">Mediterranean and Western Asia</SimpleData>
+					<SimpleData name="Subregion">Greece</SimpleData>
+					<SimpleData name="Latitude">36.404</SimpleData>
+					<SimpleData name="Longitude">25.396</SimpleData>
+					<SimpleData name="Elevation">367</SimpleData>
+					<SimpleData name="Tectonic_Setting">Subduction zone / Continental crust (&gt; 25 km)</SimpleData>
+					<SimpleData name="Geologic_Epoch">Holocene</SimpleData>
+					<SimpleData name="Evidence_Category">Eruption Observed</SimpleData>
+					<SimpleData name="Primary_Photo_Link">https://volcano.si.edu/gallery/photos/GVP-00106.jpg</SimpleData>
+					<SimpleData name="Primary_Photo_Caption">The steep inner walls of Santorini drop steeply into the caldera bay. Pyroclastic flow deposits from four caldera-forming eruptions dating back to 100,000 years ago are exposed in the caldera walls in this N-looking view. The youngest caldera was formed about 3,500 years ago during the Minoan eruption of Santorini. The flat-topped peak on the left skyline is Skaros, a remnant of a shield volcano constructed within a previous caldera.</SimpleData>
+					<SimpleData name="Primary_Photo_Credit">Photo by Lee Siebert, 1994 (Smithsonian Institution).</SimpleData>
+					<SimpleData name="Major_Rock_Type">Dacite</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.396,36.404,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="Smithsonian_VOTW_Holocene_Volcanoes.fid-36540bad_17c55274b59_-298">
+			<ExtendedData>
+				<SchemaData schemaUrl="#Smithsonian_VOTW_Holocene_Volcanoes_1">
+					<SimpleData name="Volcano_Number">212051</SimpleData>
+					<SimpleData name="Volcano_Name">Yali</SimpleData>
+					<SimpleData name="Primary_Volcano_Type">Lava dome(s)</SimpleData>
+					<SimpleData name="Country">Greece</SimpleData>
+					<SimpleData name="Geological_Summary">Yali, a small crescent-shaped island between the N coast of Nisyros and the SW coast of Kos islands, consists of rhyolitic obsidian domes and pumice deposits.  It lies within the inferred location of the large submarine caldera associated with the eruption of the voluminous Kos Plateau Tuff, about 160,000 years ago, which produced extensive ignimbrites that blanket much of the western half of Kos island and which produced a caldera of uncertain dimensions but one that could extend from Kefalos Bay on the SW side of Kos to Nisyros. Yali is oriented NNE-SSW and contains two distinct segments connected by a narrow isthmus formed of modern reef sediments.  The SW part of the island consists primarily of a layered pumice-fall unit about 200 m thick; the NE part contains rhyolitic obsidian lava flows of similar thickness.  No historical eruptions are known, but the most recent pumice eruptions overlie soils containing pottery and Neolithic obsidian artifacts (Keller, 1982).</SimpleData>
+					<SimpleData name="Region">Mediterranean and Western Asia</SimpleData>
+					<SimpleData name="Subregion">Greece</SimpleData>
+					<SimpleData name="Latitude">36.671</SimpleData>
+					<SimpleData name="Longitude">27.140</SimpleData>
+					<SimpleData name="Elevation">180</SimpleData>
+					<SimpleData name="Tectonic_Setting">Subduction zone / Continental crust (&gt; 25 km)</SimpleData>
+					<SimpleData name="Geologic_Epoch">Holocene</SimpleData>
+					<SimpleData name="Evidence_Category">Evidence Credible</SimpleData>
+					<SimpleData name="Primary_Photo_Link">https://volcano.si.edu/gallery/photos/GVP-11097.jpg</SimpleData>
+					<SimpleData name="Primary_Photo_Caption">The island of Yali (upper left) and the island of Nisyros Island (lower right) are shown this NASA International Space Station image (with N to the upper left). Yali contains two distinct segments connected by a narrow isthmus formed of modern reef sediments and consists of rhyolitic obsidian domes at the NE end and pumice-fall deposits at the SW end. A caldera 3-4 km wide, much of the W side of which is filled by post-collapse lava domes, is visible on Nisyros Island.</SimpleData>
+					<SimpleData name="Primary_Photo_Credit">NASA International Space Station image ISS006-E-30975, 2003 (http://eol.jsc.nasa.gov/).</SimpleData>
+					<SimpleData name="Major_Rock_Type">Rhyolite</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>27.14,36.671,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="Smithsonian_VOTW_Holocene_Volcanoes.fid-36540bad_17c55274b59_-297">
+			<ExtendedData>
+				<SchemaData schemaUrl="#Smithsonian_VOTW_Holocene_Volcanoes_1">
+					<SimpleData name="Volcano_Number">212050</SimpleData>
+					<SimpleData name="Volcano_Name">Nisyros</SimpleData>
+					<SimpleData name="Primary_Volcano_Type">Stratovolcano</SimpleData>
+					<SimpleData name="Last_Eruption_Year">1888</SimpleData>
+					<SimpleData name="Country">Greece</SimpleData>
+					<SimpleData name="Geological_Summary"><![CDATA[The easternmost volcano of the Aegean arc forms the 9-km-wide island of Nisyros, which is truncated by a 3-4 km wide caldera. The island was constructed during the past 150,000 years, with three cone-building stages including explosive and effusive andesitic eruptions and effusive and extrusive dacitic and rhyolitic activity. The age of the caldera is variously considered to be <24,000 years before present (BP) (Keller et al., 1990) and >44,000 BP (Limburg and Varekamp, 1991). Five large post-caldera lava domes completely fill the western part of the caldera. The NE-most (Boriatiko) and SW-most (Karaviotis) lava domes and flows are significantly younger than the other domes. A sixth post-caldera dome, outside the SW caldera rim, produced lava flows that reached the coast. Historical phreatic eruptions occurred from craters within the caldera between 1422 and 1888. Intense hydrothermal activity continues in the form of many fumaroles on the caldera floor and hot springs along the coast.]]></SimpleData>
+					<SimpleData name="Region">Mediterranean and Western Asia</SimpleData>
+					<SimpleData name="Subregion">Greece</SimpleData>
+					<SimpleData name="Latitude">36.586</SimpleData>
+					<SimpleData name="Longitude">27.160</SimpleData>
+					<SimpleData name="Elevation">698</SimpleData>
+					<SimpleData name="Tectonic_Setting">Subduction zone / Continental crust (&gt; 25 km)</SimpleData>
+					<SimpleData name="Geologic_Epoch">Holocene</SimpleData>
+					<SimpleData name="Evidence_Category">Eruption Observed</SimpleData>
+					<SimpleData name="Primary_Photo_Link">https://volcano.si.edu/gallery/photos/GVP-09000.jpg</SimpleData>
+					<SimpleData name="Primary_Photo_Caption">The Mount Hagi Ilias lava dome occupies the western side of a 3-4 km wide caldera at the summit of Nisyros volcano, the easternmost of the Aegean arc. Five large post-caldera lava domes completely fill the western part of the caldera. Historical phreatic eruptions occurred within the caldera between 1422 and 1888.</SimpleData>
+					<SimpleData name="Primary_Photo_Credit">Photo by Ichio Moriya (Kanazawa University).</SimpleData>
+					<SimpleData name="Major_Rock_Type">Dacite</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>27.16,36.586,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="Smithsonian_VOTW_Holocene_Volcanoes.fid-36540bad_17c55274b59_-296">
+			<ExtendedData>
+				<SchemaData schemaUrl="#Smithsonian_VOTW_Holocene_Volcanoes_1">
+					<SimpleData name="Volcano_Number">213000</SimpleData>
+					<SimpleData name="Volcano_Name">Kula</SimpleData>
+					<SimpleData name="Primary_Volcano_Type">Pyroclastic cone(s)</SimpleData>
+					<SimpleData name="Country">Turkey</SimpleData>
+					<SimpleData name="Geological_Summary">The Kula volcanic field, the westernmost area of young volcanism in Turkey, lies about 450 km WNW of its closest Holocene neighbor in central Turkey, the Karapinar volcanic field. The Kula field consists of a broad area of Quaternary alkaline basanitic-to-phonotephritic cinder cones and maars erupted along a roughly E-W line SW of the city of Selendi. Most are Pleistocene in age, between about 1.1 million and 10,000 years old. The initial stage produced lava flows from vents along the ring fracture of caldera identified from satellite images. The second and third stages took place along an E-W graben and produced lava flows with ultramafic xenoliths. Although activity was considered to have continued until the beginning of the Holocene (Yilmaz, 1990), or almost to historical times (Borsi et al., 1972), the age of the most recent eruption is not known.</SimpleData>
+					<SimpleData name="Region">Mediterranean and Western Asia</SimpleData>
+					<SimpleData name="Subregion">Turkey</SimpleData>
+					<SimpleData name="Latitude">38.580</SimpleData>
+					<SimpleData name="Longitude">28.520</SimpleData>
+					<SimpleData name="Elevation">750</SimpleData>
+					<SimpleData name="Tectonic_Setting">Intraplate / Continental crust (&gt; 25 km)</SimpleData>
+					<SimpleData name="Geologic_Epoch">Holocene</SimpleData>
+					<SimpleData name="Evidence_Category">Evidence Credible</SimpleData>
+					<SimpleData name="Primary_Photo_Link">https://volcano.si.edu/gallery/photos/GVP-11457.jpg</SimpleData>
+					<SimpleData name="Primary_Photo_Caption">The Kara Divlit Tepe (&quot;Black Ink Cone&quot;) scoria cone is part of the Kula volcanic field, the westernmost area of young volcanism in Turkey. It is the youngest of the broad Quaternary volcanic field, which is mostly Pleistocene in age. The 300-m-high cone produced a voluminous lava flow (visible to the N, right of the cone) that traveled 22 km NW and is one of the two youngest flows at Kula. The Kula volcanic field contains a group of cones and maars erupted along a roughly E-W-trending line.</SimpleData>
+					<SimpleData name="Primary_Photo_Credit">Photo by Samuele Agostini, 2000 (CNR, Pisa, Italy).</SimpleData>
+					<SimpleData name="Major_Rock_Type">Trachybasalt / Tephrite Basanite</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>28.52,38.58,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="Smithsonian_VOTW_Holocene_Volcanoes.fid-36540bad_17c55274b59_-295">
+			<ExtendedData>
+				<SchemaData schemaUrl="#Smithsonian_VOTW_Holocene_Volcanoes_1">
+					<SimpleData name="Volcano_Number">213001</SimpleData>
+					<SimpleData name="Volcano_Name">Karapinar Field</SimpleData>
+					<SimpleData name="Primary_Volcano_Type">Pyroclastic cone(s)</SimpleData>
+					<SimpleData name="Country">Turkey</SimpleData>
+					<SimpleData name="Geological_Summary">The basaltic Karapinar volcanic field is comprised of five cinder cones, two lava fields, and several explosion craters and maars located along a SW-NE line on the Konya-Eregli plain SW of the Karacadag stratovolcano. The maars evolved from hyaloclastite tuff rings to maars to cinder cones, reflecting varying lake water levels during eruptions. Meke Dagi is one of the largest cinder cones in Central Anatolia.</SimpleData>
+					<SimpleData name="Region">Mediterranean and Western Asia</SimpleData>
+					<SimpleData name="Subregion">Turkey</SimpleData>
+					<SimpleData name="Latitude">37.667</SimpleData>
+					<SimpleData name="Longitude">33.600</SimpleData>
+					<SimpleData name="Elevation">1302</SimpleData>
+					<SimpleData name="Tectonic_Setting">Intraplate / Continental crust (&gt; 25 km)</SimpleData>
+					<SimpleData name="Geologic_Epoch">Holocene</SimpleData>
+					<SimpleData name="Evidence_Category">Evidence Credible</SimpleData>
+					<SimpleData name="Primary_Photo_Link">https://volcano.si.edu/gallery/photos/GVP-10144.jpg</SimpleData>
+					<SimpleData name="Primary_Photo_Caption">Meke Golu lake surrounds the Meke Dagi scoria cone in the Karapinar volcanic field, which is comprised of cones, lava fields, and maars on the Konya-Eregli plain. The 300-m-high Meke Dagi is one of the largest cinder cones in Central Anatolia. This maar complex evolved from a hyaloclastite tuff ring to a maar to a scoria cone, reflecting varying lake water levels during the eruption.</SimpleData>
+					<SimpleData name="Primary_Photo_Credit">Copyrighted photo by Marco Fulle, 1999 (Stromboli On-Line, http://stromboli.net).</SimpleData>
+					<SimpleData name="Major_Rock_Type">Trachyandesite / Basaltic Trachyandesite</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>33.6,37.667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="Smithsonian_VOTW_Holocene_Volcanoes.fid-36540bad_17c55274b59_-294">
+			<ExtendedData>
+				<SchemaData schemaUrl="#Smithsonian_VOTW_Holocene_Volcanoes_1">
+					<SimpleData name="Volcano_Number">213002</SimpleData>
+					<SimpleData name="Volcano_Name">Hasan Dagi</SimpleData>
+					<SimpleData name="Primary_Volcano_Type">Stratovolcano</SimpleData>
+					<SimpleData name="Country">Turkey</SimpleData>
+					<SimpleData name="Geological_Summary">The massive double-peaked stratovolcano Hasan Dagi in Central Anatolia has undergone four episodes of caldera collapse, the latest of which formed a 4-5 km wide caldera at the summit.  The modern edifice within the latest caldera is the youngest of four major basaltic-to-rhyolitic volcanic complexes dating back to the mid-Miocene.  Andesitic-to-dacitic lava domes form the two principal summits, of which the westernmost is the highest and is capped by two nested craters.  Lava domes and associated pyroclastic-flow deposits blanket more than half the flanks of the Mount Hasan volcanic complex.  A group of more than 25 Quaternary cinder cones, maars, and lava flows dot the surrounding plains.  Interpretations of Neolithic paintings representing eruptions are controversial, but geologic evidence supports eruptive activity continuing into the Holocene.</SimpleData>
+					<SimpleData name="Region">Mediterranean and Western Asia</SimpleData>
+					<SimpleData name="Subregion">Turkey</SimpleData>
+					<SimpleData name="Latitude">38.130</SimpleData>
+					<SimpleData name="Longitude">34.170</SimpleData>
+					<SimpleData name="Elevation">3253</SimpleData>
+					<SimpleData name="Tectonic_Setting">Intraplate / Continental crust (&gt; 25 km)</SimpleData>
+					<SimpleData name="Geologic_Epoch">Holocene</SimpleData>
+					<SimpleData name="Evidence_Category">Evidence Credible</SimpleData>
+					<SimpleData name="Primary_Photo_Link">https://volcano.si.edu/gallery/photos/GVP-01575.jpg</SimpleData>
+					<SimpleData name="Primary_Photo_Caption">The double-peaked Hasan Dagi volcano in central Turkey has a complex history that includes three episodes of caldera collapse. Numerous cones, maars, and lava flows dot the flanks of the volcano. The hilly terrain in the foreground is a debris avalanche deposit produced by collapse of the volcano.</SimpleData>
+					<SimpleData name="Primary_Photo_Credit">Photo by Richard Waitt, 1994 (U.S. Geological Survey).</SimpleData>
+					<SimpleData name="Major_Rock_Type">Dacite</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.17,38.13,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="Smithsonian_VOTW_Holocene_Volcanoes.fid-36540bad_17c55274b59_-293">
+			<ExtendedData>
+				<SchemaData schemaUrl="#Smithsonian_VOTW_Holocene_Volcanoes_1">
+					<SimpleData name="Volcano_Number">213003</SimpleData>
+					<SimpleData name="Volcano_Name">Gollu Dag</SimpleData>
+					<SimpleData name="Primary_Volcano_Type">Lava dome</SimpleData>
+					<SimpleData name="Country">Turkey</SimpleData>
+					<SimpleData name="Geological_Summary">Göllü Dag, a rhyolitic-to-rhyodacitic lava dome complex in central Anatolia, lies between the Hasan Dagi and Acigöl-Nevsehir volcanic complexes. Fission track ages on obsidians ranged from 1.33 to 0.84 million years old (Bigazzi et al., 1995). A large number of cinder cones are located adjacent to Göllü Dag, many along N-S-trending fissures north of the lava dome complex and south of the Erdas Dag massif; some of these cones were considered by Keller (1980, pers. comm.) to be Holocene in age due to their freshly preserved features. The lava domes and cinder cones overlie the buried silicic Derinkuyu caldera complex of Tertiary age; hydrothermal alteration and hot springs are present in the Sahin Kalesi resurgent dome complex west of Göllü Dag and on the southern flank of the Erdas Dag massif to the north.</SimpleData>
+					<SimpleData name="Region">Mediterranean and Western Asia</SimpleData>
+					<SimpleData name="Subregion">Turkey</SimpleData>
+					<SimpleData name="Latitude">38.250</SimpleData>
+					<SimpleData name="Longitude">34.570</SimpleData>
+					<SimpleData name="Elevation">2143</SimpleData>
+					<SimpleData name="Tectonic_Setting">Intraplate / Continental crust (&gt; 25 km)</SimpleData>
+					<SimpleData name="Geologic_Epoch">Holocene</SimpleData>
+					<SimpleData name="Evidence_Category">Evidence Uncertain</SimpleData>
+					<SimpleData name="Major_Rock_Type">Rhyolite</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.57,38.25,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="Smithsonian_VOTW_Holocene_Volcanoes.fid-36540bad_17c55274b59_-292">
+			<ExtendedData>
+				<SchemaData schemaUrl="#Smithsonian_VOTW_Holocene_Volcanoes_1">
+					<SimpleData name="Volcano_Number">213004</SimpleData>
+					<SimpleData name="Volcano_Name">Acigol-Nevsehir</SimpleData>
+					<SimpleData name="Primary_Volcano_Type">Caldera</SimpleData>
+					<SimpleData name="Last_Eruption_Year">-2080</SimpleData>
+					<SimpleData name="Country">Turkey</SimpleData>
+					<SimpleData name="Geological_Summary">Acigöl-Nevsehir caldera is located in central Turkey and is traversed by the national highway between the towns of Acigöl and Nevsehir. The elliptical 7 x 8 km wide late-Pleistocene caldera is part of a now partially buried larger caldera and contains a group of maars, lava domes, basaltic lava flows, and pyroclastic cones. Three groups of obsidian lava flows have been dated; pre-collapse flows between about 190,000 and 180,000 years before present (BP), 75,000 yrs BP lava domes (such as Taskesik Tepe on the eastern side of the caldera) post-dating formation of the caldera, and young lava domes on the western caldera floor about 20,000 to 15,000 years old. Thirteen scoria layers from local tephras erupted between about 11,000 and 4300 years ago were found in sediment cores in the late Pleistocene Eski Acigöl maar. An ash layer from this volcanic group overlies 2300-1850 BCE artifacts of Roman-Cappadocian age.</SimpleData>
+					<SimpleData name="Region">Mediterranean and Western Asia</SimpleData>
+					<SimpleData name="Subregion">Turkey</SimpleData>
+					<SimpleData name="Latitude">38.537</SimpleData>
+					<SimpleData name="Longitude">34.621</SimpleData>
+					<SimpleData name="Elevation">1683</SimpleData>
+					<SimpleData name="Tectonic_Setting">Intraplate / Continental crust (&gt; 25 km)</SimpleData>
+					<SimpleData name="Geologic_Epoch">Holocene</SimpleData>
+					<SimpleData name="Evidence_Category">Eruption Dated</SimpleData>
+					<SimpleData name="Primary_Photo_Link">https://volcano.si.edu/gallery/photos/GVP-11504.jpg</SimpleData>
+					<SimpleData name="Primary_Photo_Caption">A large group of maars, lava domes, basaltic lava flows, and pyroclastic cones occupies the Acigöl-Nevsehir caldera in central Turkey in this NASA Landsat mosaic (with north to the top).  The elliptical 7 x 8 km wide late-Pleistocene caldera, whose rim is not apparent in this image, is traversed by the national highway between the towns of Acigöl and Nevsehir (top-right, just right of the mosaic join line).</SimpleData>
+					<SimpleData name="Primary_Photo_Credit">NASA Landsat 7 image (worldwind.arc.nasa.gov)</SimpleData>
+					<SimpleData name="Major_Rock_Type">Rhyolite</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.621,38.537,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="Smithsonian_VOTW_Holocene_Volcanoes.fid-36540bad_17c55274b59_-291">
+			<ExtendedData>
+				<SchemaData schemaUrl="#Smithsonian_VOTW_Holocene_Volcanoes_1">
+					<SimpleData name="Volcano_Number">213011</SimpleData>
+					<SimpleData name="Volcano_Name">Karaca Dag</SimpleData>
+					<SimpleData name="Primary_Volcano_Type">Shield</SimpleData>
+					<SimpleData name="Country">Turkey</SimpleData>
+					<SimpleData name="Geological_Summary">Karaca Dag (also known as Karacalidag) is a broad basaltic shield volcano in SE Turkey about 100 km N of the Syrian border.  The volcano lies on the Arabian foreland about 150 km SW of the boundary with the Anatolian Plate and has been active since the Pliocene along a N-S-trending set of fissures and craters associated with the nearby Akcakale graben.  Potassium-Argon dates of mid-Pleistocene age have been obtained from lava flows, but Landsat imagery suggests that some lava flows, particularly those on the E flank, may perhaps be only a few thousand years old (Pearce et al., 1990).</SimpleData>
+					<SimpleData name="Region">Mediterranean and Western Asia</SimpleData>
+					<SimpleData name="Subregion">Turkey</SimpleData>
+					<SimpleData name="Latitude">37.670</SimpleData>
+					<SimpleData name="Longitude">39.830</SimpleData>
+					<SimpleData name="Elevation">1957</SimpleData>
+					<SimpleData name="Tectonic_Setting">Intraplate / Continental crust (&gt; 25 km)</SimpleData>
+					<SimpleData name="Geologic_Epoch">Holocene</SimpleData>
+					<SimpleData name="Evidence_Category">Evidence Credible</SimpleData>
+					<SimpleData name="Major_Rock_Type">Basalt / Picro-Basalt</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>39.83,37.67,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="Smithsonian_VOTW_Holocene_Volcanoes.fid-36540bad_17c55274b59_-290">
+			<ExtendedData>
+				<SchemaData schemaUrl="#Smithsonian_VOTW_Holocene_Volcanoes_1">
+					<SimpleData name="Volcano_Number">213010</SimpleData>
+					<SimpleData name="Volcano_Name">Erciyes Dagi</SimpleData>
+					<SimpleData name="Primary_Volcano_Type">Stratovolcano</SimpleData>
+					<SimpleData name="Last_Eruption_Year">-6880</SimpleData>
+					<SimpleData name="Country">Turkey</SimpleData>
+					<SimpleData name="Geological_Summary">The massive, eroded stratovolcano Erciyes Dagi at the northern end of the Sultansazligi Basin in central Anatolia covers an area of about 1300 km2. Growth of the modern volcano began about 0.9 million years ago, following Pliocene caldera collapse of the Kocdag complex. Numerous parasitic cones and lava domes are found mostly on the N flank of the modern edifice, many along radial fissures. The youngest dated rock was from an 83,000-year-old dacitic lava flow, but rhyodacitic eruptions and lava dome growth occurred later at the Perikartin dome. One of the latest documented events was an edifice collapse that produced a large debris avalanche that extended to the east. An early Holocene distal tephra layer in Lebanon was attributed to Erciyes Dagi. Uncertainty remains regarding reported historical eruptions and their possible depiction on Roman Cappadocian coins. Historical accounts possibly referring to eruptions could also be attributed to methane releases from a swamp in the Sultansazligi Basin.</SimpleData>
+					<SimpleData name="Region">Mediterranean and Western Asia</SimpleData>
+					<SimpleData name="Subregion">Turkey</SimpleData>
+					<SimpleData name="Latitude">38.531</SimpleData>
+					<SimpleData name="Longitude">35.447</SimpleData>
+					<SimpleData name="Elevation">3864</SimpleData>
+					<SimpleData name="Tectonic_Setting">Intraplate / Continental crust (&gt; 25 km)</SimpleData>
+					<SimpleData name="Geologic_Epoch">Holocene</SimpleData>
+					<SimpleData name="Evidence_Category">Eruption Dated</SimpleData>
+					<SimpleData name="Primary_Photo_Link">https://volcano.si.edu/gallery/photos/GVP-01574.jpg</SimpleData>
+					<SimpleData name="Primary_Photo_Caption">Erciyes Dagi volcano in central Turkey, seen here from the WSW, is an eroded stratovolcano that covers an area of 1,300 km2. Numerous parasitic cones and lava domes are concentrated on its northern flank.</SimpleData>
+					<SimpleData name="Primary_Photo_Credit">Photo by Richard Waitt, 1994 (U.S. Geological Survey).</SimpleData>
+					<SimpleData name="Major_Rock_Type">Dacite</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>35.447,38.531,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="Smithsonian_VOTW_Holocene_Volcanoes.fid-36540bad_17c55274b59_-28f">
+			<ExtendedData>
+				<SchemaData schemaUrl="#Smithsonian_VOTW_Holocene_Volcanoes_1">
+					<SimpleData name="Volcano_Number">213020</SimpleData>
+					<SimpleData name="Volcano_Name">Nemrut Dagi</SimpleData>
+					<SimpleData name="Primary_Volcano_Type">Stratovolcano</SimpleData>
+					<SimpleData name="Last_Eruption_Year">1650</SimpleData>
+					<SimpleData name="Country">Turkey</SimpleData>
+					<SimpleData name="Geological_Summary">Nemrut Dagi is the westernmost of a group of volcanoes near Lake Van in eastern Anatolia and the only one that has erupted in historical time. It contains a 9 x 5 km caldera partially filled on its western side by a caldera lake. Post-caldera volcanism, of basaltic to rhyolitic composition, initially occurred along the caldera rim and floor. Pyroclastic flows and the emission of glassy obsidian lava flows accompanied construction of lava domes within the caldera; later activity formed a series of cinder cones and lava domes erupted along N-S-trending fissures on the northern flank. The most recent activity has been concentrated along a NNW-trending fissure cutting the eastern caldera floor and extending beyond the north caldera rim; nearly two dozen cinder cones and lava domes were constructed on the caldera floor. Ash layers in Lake Van document numerous Holocene eruptions, and an historical eruption in 1441 CE from a N-flank fissure involved compositionally bimodal lava flows.</SimpleData>
+					<SimpleData name="Region">Mediterranean and Western Asia</SimpleData>
+					<SimpleData name="Subregion">Turkey</SimpleData>
+					<SimpleData name="Latitude">38.654</SimpleData>
+					<SimpleData name="Longitude">42.229</SimpleData>
+					<SimpleData name="Elevation">2948</SimpleData>
+					<SimpleData name="Tectonic_Setting">Intraplate / Continental crust (&gt; 25 km)</SimpleData>
+					<SimpleData name="Geologic_Epoch">Holocene</SimpleData>
+					<SimpleData name="Evidence_Category">Eruption Observed</SimpleData>
+					<SimpleData name="Primary_Photo_Link">https://volcano.si.edu/gallery/photos/GVP-10436.jpg</SimpleData>
+					<SimpleData name="Primary_Photo_Caption">The summit of Nemrut Dagi is truncated by a 5 x 9 km caldera near Lake Van in eastern Turkey. A lake that partially fills the western side of the caldera is constrained by post-caldera eruptions that produced glassy obsidian lava flows from domes on the eastern caldera floor. A series of scoria cones and lava domes were erupted along N-S-trending fissures on the northern flank. Ash layers in Lake Van document numerous Holocene eruptions from Nemrut Dagi.</SimpleData>
+					<SimpleData name="Primary_Photo_Credit">NASA International Space Station image ISS001-E-6354, 2001 (http://eol.jsc.nasa.gov/).</SimpleData>
+					<SimpleData name="Major_Rock_Type">Rhyolite</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>42.229,38.654,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="Smithsonian_VOTW_Holocene_Volcanoes.fid-36540bad_17c55274b59_-28e">
+			<ExtendedData>
+				<SchemaData schemaUrl="#Smithsonian_VOTW_Holocene_Volcanoes_1">
+					<SimpleData name="Volcano_Number">213030</SimpleData>
+					<SimpleData name="Volcano_Name">Tenduruk Dagi</SimpleData>
+					<SimpleData name="Primary_Volcano_Type">Shield</SimpleData>
+					<SimpleData name="Last_Eruption_Year">1855</SimpleData>
+					<SimpleData name="Country">Turkey</SimpleData>
+					<SimpleData name="Geological_Summary">Tendürek Dagi, also known as Tendürük Dagi, is an elongated shield volcano that rises above the Dogubayazit plain, near the Iranian border south of Mount Ararat. An E-W summit ridge, developed north of an arcuate caldera structure exposed only on the southern side, contains two well-developed cones. The higher western cone is capped by a steep-walled crater with a trachytic spine at its eastern edge. The flatter eastern crater contains a warm lake. The shield volcano developed during a period when highly mobile lava flows from the western crater covered an area of 500 km2. Following summit caldera formation, numerous flank eruptions took place from N-S-trending fissures, producing viscous trachytic lava domes and flows as well as fluid basaltic pahoehoe flows that extend 10-20 km N and S. The latest activity formed two major basaltic lava flows from large cones on the NE and SE flanks. An eruption took place from a vent on the SE flank about 2500 years ago, and a gas-and-ash eruption took place in 1855.</SimpleData>
+					<SimpleData name="Region">Mediterranean and Western Asia</SimpleData>
+					<SimpleData name="Subregion">Turkey</SimpleData>
+					<SimpleData name="Latitude">39.356</SimpleData>
+					<SimpleData name="Longitude">43.874</SimpleData>
+					<SimpleData name="Elevation">3514</SimpleData>
+					<SimpleData name="Tectonic_Setting">Intraplate / Continental crust (&gt; 25 km)</SimpleData>
+					<SimpleData name="Geologic_Epoch">Holocene</SimpleData>
+					<SimpleData name="Evidence_Category">Eruption Observed</SimpleData>
+					<SimpleData name="Primary_Photo_Link">https://volcano.si.edu/gallery/photos/GVP-11756.jpg</SimpleData>
+					<SimpleData name="Primary_Photo_Caption">Rough `a`a lava flows in the foreground occupy the slopes of Tendürek Dagi volcano. This volcano rises 1,800 m above the plain of Dogubayazit, near the Iranian border, S of Mount Ararat. The latest activity formed two major basaltic lava flows from large cones on the NE and SE flanks. An eruption took place from a vent on the SE flank about 2,500 years ago, and an eruption took place in 1855.</SimpleData>
+					<SimpleData name="Primary_Photo_Credit">Photo by Joël Boyer, 1993 (L.A.V.E.)</SimpleData>
+					<SimpleData name="Major_Rock_Type">Basalt / Picro-Basalt</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>43.874,39.356,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="Smithsonian_VOTW_Holocene_Volcanoes.fid-36540bad_17c55274b59_-28d">
+			<ExtendedData>
+				<SchemaData schemaUrl="#Smithsonian_VOTW_Holocene_Volcanoes_1">
+					<SimpleData name="Volcano_Number">213040</SimpleData>
+					<SimpleData name="Volcano_Name">Ararat</SimpleData>
+					<SimpleData name="Primary_Volcano_Type">Stratovolcano</SimpleData>
+					<SimpleData name="Last_Eruption_Year">1840</SimpleData>
+					<SimpleData name="Country">Turkey</SimpleData>
+					<SimpleData name="Geological_Summary">The double-peaked stratovolcano Mount Ararat, also known as Agri Dagi, is Turkey&apos;s highest, largest volume, and easternmost volcano. It is glacier-clad along with its twin volcano, Kucuk Ararat (or Lesser Ararat), and covers an area of 1000 km2 at the eastern end of a SSW-ESE line of volcanoes extending from Nemrut Dagi. Construction of the Greater and Lesser Ararat volcanoes was followed by a period of extensive flank eruptions, many erupted along N-S fissures. The initial stage of flank eruptions produced a cluster of cinder cones and dacitic-rhyolitic lava domes surrounding Greater Ararat and a series of pyroclastic cones and domes on the W flank of Lesser Ararat. Late-stage activity formed large pyroclastic cones lower on the flanks of the two volcanoes. Ararat appears to have been active during the 3rd millennium BCE; pyroclastic-flow deposits overlie early Bronze Age artifacts and human remains. Karakhanian et al. (2002) reported historical evidence for a phreatic eruption and pyroclastic flow at the time of a July 1840 earthquake and landslide.</SimpleData>
+					<SimpleData name="Region">Mediterranean and Western Asia</SimpleData>
+					<SimpleData name="Subregion">Turkey</SimpleData>
+					<SimpleData name="Latitude">39.700</SimpleData>
+					<SimpleData name="Longitude">44.300</SimpleData>
+					<SimpleData name="Elevation">5165</SimpleData>
+					<SimpleData name="Tectonic_Setting">Intraplate / Continental crust (&gt; 25 km)</SimpleData>
+					<SimpleData name="Geologic_Epoch">Holocene</SimpleData>
+					<SimpleData name="Evidence_Category">Eruption Observed</SimpleData>
+					<SimpleData name="Primary_Photo_Link">https://volcano.si.edu/gallery/photos/GVP-12038.jpg</SimpleData>
+					<SimpleData name="Primary_Photo_Caption">Snow-capped Mount Ararat is seen from the Khor Virap monastery in Armenia, NE of the volcano. Ararat, also known as Agri Dagi, is Turkey&apos;s highest and easternmost volcano, lying near the border with Armenia. Ararat appears to have been active during the 3rd millennium BCE; pyroclastic flow deposits overlie early Bronze Age artifacts and human remains.</SimpleData>
+					<SimpleData name="Primary_Photo_Credit">Photo by Andrew Behesnilian (Wikimedia Commons).</SimpleData>
+					<SimpleData name="Major_Rock_Type">Andesite / Basaltic Andesite</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>44.3,39.7,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="Smithsonian_VOTW_Holocene_Volcanoes.fid-36540bad_17c55274b59_-28c">
+			<ExtendedData>
+				<SchemaData schemaUrl="#Smithsonian_VOTW_Holocene_Volcanoes_1">
+					<SimpleData name="Volcano_Number">214010</SimpleData>
+					<SimpleData name="Volcano_Name">Elbrus</SimpleData>
+					<SimpleData name="Primary_Volcano_Type">Stratovolcano</SimpleData>
+					<SimpleData name="Last_Eruption_Year">50</SimpleData>
+					<SimpleData name="Country">Russia</SimpleData>
+					<SimpleData name="Geological_Summary">Elbrus, the highest peak of the Caucasus Mountains of SW Russia, is a large glaciated stratovolcano with twin summits. The summit area has two distinct peaks, with a 250-m-wide crater on the eastern cone, separated by a low saddle from the western peak. Eruptive products cover 260 km2; its longest lava flow traveled 24 km down the NNE flank. The most recent lava flows are fresh-looking, and the latest eruptions took place during the Holocene (CAVW). Weak solfataric activity has been reported near the summit, and hot springs are present on the flanks.</SimpleData>
+					<SimpleData name="Region">Mediterranean and Western Asia</SimpleData>
+					<SimpleData name="Subregion">Western Asia</SimpleData>
+					<SimpleData name="Latitude">43.351</SimpleData>
+					<SimpleData name="Longitude">42.442</SimpleData>
+					<SimpleData name="Elevation">5642</SimpleData>
+					<SimpleData name="Tectonic_Setting">Intraplate / Continental crust (&gt; 25 km)</SimpleData>
+					<SimpleData name="Geologic_Epoch">Holocene</SimpleData>
+					<SimpleData name="Evidence_Category">Eruption Dated</SimpleData>
+					<SimpleData name="Primary_Photo_Link">https://volcano.si.edu/gallery/photos/GVP-10277.jpg</SimpleData>
+					<SimpleData name="Primary_Photo_Caption">Mount Elbrus, the highest peak of the Caucasus Mountains of SW Russia, contains glaciers on its flanks. Elbrus has two summits separated by a low saddle. Snow-filled craters are visible in this image at both the eastern and western summits. Products of Mount Elbrus cover 260 km2 with its longest lava flow reaching 24 km down the NNE flank. Elbrus has been active into the Holocene. Weak fumarolic activity near the summit continues and hot springs are present on the flanks.</SimpleData>
+					<SimpleData name="Primary_Photo_Credit">Image courtesy of Earth Sciences and Image Analysis Laboratory, NASA Johnson Space Center, 2002 (http://eol.jsc.nasa.gov).</SimpleData>
+					<SimpleData name="Major_Rock_Type">Dacite</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>42.442,43.351,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="Smithsonian_VOTW_Holocene_Volcanoes.fid-36540bad_17c55274b59_-28b">
+			<ExtendedData>
+				<SchemaData schemaUrl="#Smithsonian_VOTW_Holocene_Volcanoes_1">
+					<SimpleData name="Volcano_Number">214020</SimpleData>
+					<SimpleData name="Volcano_Name">Kazbek</SimpleData>
+					<SimpleData name="Primary_Volcano_Type">Stratovolcano</SimpleData>
+					<SimpleData name="Last_Eruption_Year">-750</SimpleData>
+					<SimpleData name="Country">Georgia</SimpleData>
+					<SimpleData name="Geological_Summary">The glacier-covered Kazbek stratovolcano in the Caucasus Mountains of Georgia, just south of the border with Russia, has produced long lava flows down flank valleys. Next to Mount Elbrus, it is the highest volcano in Caucasus Mountains. The summit cone and the latest lava flows are of post-glacial age, and the latest andesitic-dacitic lava flow was radiocarbon dated at about 6000 years ago. Gushchenko (1979) listed an 800-700 BCE eruption.</SimpleData>
+					<SimpleData name="Region">Mediterranean and Western Asia</SimpleData>
+					<SimpleData name="Subregion">Western Asia</SimpleData>
+					<SimpleData name="Latitude">42.700</SimpleData>
+					<SimpleData name="Longitude">44.500</SimpleData>
+					<SimpleData name="Elevation">5050</SimpleData>
+					<SimpleData name="Tectonic_Setting">Intraplate / Continental crust (&gt; 25 km)</SimpleData>
+					<SimpleData name="Geologic_Epoch">Holocene</SimpleData>
+					<SimpleData name="Evidence_Category">Eruption Dated</SimpleData>
+					<SimpleData name="Primary_Photo_Link">https://volcano.si.edu/gallery/photos/GVP-10275.jpg</SimpleData>
+					<SimpleData name="Primary_Photo_Caption">The glacier-covered Kazbek stratovolcano, the second highest in the Caucasus Mountains of Georgia, lies just south of the border with Russia. The summit cone and the most recent lava flows are of postglacial age, and the latest andesitic-dacitic lava flow was radiocarbon dated at about 6,000 years ago. Arrows at the top left on this 13 August 2002 NASA Space Shuttle image mark the path of an avalanche and debris flow produced by collapse of a glacier the following month.</SimpleData>
+					<SimpleData name="Primary_Photo_Credit">Image courtesy of Earth Sciences and Image Analysis Laboratory, NASA Johnson Space Center, 2002 (http://eol.jsc.nasa.gov).</SimpleData>
+					<SimpleData name="Major_Rock_Type">Andesite / Basaltic Andesite</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>44.5,42.7,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="Smithsonian_VOTW_Holocene_Volcanoes.fid-36540bad_17c55274b59_-28a">
+			<ExtendedData>
+				<SchemaData schemaUrl="#Smithsonian_VOTW_Holocene_Volcanoes_1">
+					<SimpleData name="Volcano_Number">214050</SimpleData>
+					<SimpleData name="Volcano_Name">Samsari Volcanic Center</SimpleData>
+					<SimpleData name="Primary_Volcano_Type">Lava cone(s)</SimpleData>
+					<SimpleData name="Country">Georgia</SimpleData>
+					<SimpleData name="Geological_Summary"><![CDATA[The Samsari Volcanic Center consists of more than 20 volcanoes extedning about 40 km N-S along the Samsari Ridge, part of the Dzhakheti Highland of southern Georgis, about 90 km WSW of Tbilisi. The most prominent volcanoes are Shavnabada in the north, the Samsari Caldera, and Didi-Abuli in the south. K-Ar dates obtained by Lebedev et al. (2003) showed that the oldest rocks were about 400 ka, from Didi-Abuli; the Samsari caldera was active around 200 ka. One sample from Tavkvetili volcano, a feature with a well-preserved crater at the far northern edge of the range, dated to <30 ka. A lava flow from Godorebi volcano, just north of Didi-Abuli, had a similar date.]]></SimpleData>
+					<SimpleData name="Region">Mediterranean and Western Asia</SimpleData>
+					<SimpleData name="Subregion">Western Asia</SimpleData>
+					<SimpleData name="Latitude">41.542</SimpleData>
+					<SimpleData name="Longitude">43.700</SimpleData>
+					<SimpleData name="Elevation">3290</SimpleData>
+					<SimpleData name="Tectonic_Setting">Intraplate / Continental crust (&gt; 25 km)</SimpleData>
+					<SimpleData name="Geologic_Epoch">Holocene</SimpleData>
+					<SimpleData name="Evidence_Category">Evidence Uncertain</SimpleData>
+					<SimpleData name="Primary_Photo_Link">https://volcano.si.edu/gallery/photos/GVP-12569.jpg</SimpleData>
+					<SimpleData name="Primary_Photo_Caption">The central part of the 40-km-long (N-S) Samsari Volcanic Center is shown in this September 2019 Planet Labs satellite image monthly mosaic (N is at the top; this image is approximately 30 km across). At least 20 edifices form the complex, and the Samsari edifice and caldera is in the center of the top third of this image. The southernmost cone in this image is Patara Abuli and the closest NW cone is Didi Abuli.</SimpleData>
+					<SimpleData name="Primary_Photo_Credit">Satellite image courtesy of Planet Labs, 2019.</SimpleData>
+					<SimpleData name="Major_Rock_Type">Andesite / Basaltic Andesite</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>43.7,41.542,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="Smithsonian_VOTW_Holocene_Volcanoes.fid-36540bad_17c55274b59_-289">
+			<ExtendedData>
+				<SchemaData schemaUrl="#Smithsonian_VOTW_Holocene_Volcanoes_1">
+					<SimpleData name="Volcano_Number">214060</SimpleData>
+					<SimpleData name="Volcano_Name">Aragats</SimpleData>
+					<SimpleData name="Primary_Volcano_Type">Stratovolcano</SimpleData>
+					<SimpleData name="Country">Armenia</SimpleData>
+					<SimpleData name="Geological_Summary">Aragats is a large andesitic-to-dacitic stratovolcano in NW Armenia about 40 km NW of the capital city of Yerevan. The main edifice is dissected by glaciers and is of Pliocene-to-Pleistocene age. Satellitic cones and fissures are located on all sides of the volcano and were the source of large lava flows that descended its lower flanks. Several of these were considered to be of Holocene age, but later Potassium-Argon dating indicated mid- to late-Pleistocene ages. The youngest lower-flank flows have not been precisely dated, but are constrained as occurring between the end of the late-Pleistocene and 3000 BCE (Kharakanian et al., 2003). A 13-km-long, WSW-ENE-trending line of craters and pyroclastic cones cuts across the northern crater rim and is the source of young lava flows and lahars; the latter were considered to be characteristic of Holocene summit eruptions.</SimpleData>
+					<SimpleData name="Region">Mediterranean and Western Asia</SimpleData>
+					<SimpleData name="Subregion">Western Asia</SimpleData>
+					<SimpleData name="Latitude">40.530</SimpleData>
+					<SimpleData name="Longitude">44.200</SimpleData>
+					<SimpleData name="Elevation">4095</SimpleData>
+					<SimpleData name="Tectonic_Setting">Intraplate / Continental crust (&gt; 25 km)</SimpleData>
+					<SimpleData name="Geologic_Epoch">Holocene</SimpleData>
+					<SimpleData name="Evidence_Category">Evidence Credible</SimpleData>
+					<SimpleData name="Primary_Photo_Link">https://volcano.si.edu/gallery/photos/GVP-10141.jpg</SimpleData>
+					<SimpleData name="Primary_Photo_Caption">The two northern summits of Aragats volcano in NW Armenia seen from a ridge to the south. Extensive hydrothermal alteration has modified rocks in the summit region of this large andesitic-to-dacitic stratovolcano. The main edifice of Aragats is dissected by glaciers and is of Pliocene to late-Pleistocene age. Satellite cones and fissures have produced lava flows of late-Pleistocene to possible Holocene age.</SimpleData>
+					<SimpleData name="Primary_Photo_Credit">Photo by Alexander Margarian.</SimpleData>
+					<SimpleData name="Major_Rock_Type">Andesite / Basaltic Andesite</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>44.2,40.53,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="Smithsonian_VOTW_Holocene_Volcanoes.fid-36540bad_17c55274b59_-288">
+			<ExtendedData>
+				<SchemaData schemaUrl="#Smithsonian_VOTW_Holocene_Volcanoes_1">
+					<SimpleData name="Volcano_Number">214070</SimpleData>
+					<SimpleData name="Volcano_Name">Ghegham Volcanic Ridge</SimpleData>
+					<SimpleData name="Primary_Volcano_Type">Volcanic field</SimpleData>
+					<SimpleData name="Last_Eruption_Year">-1900</SimpleData>
+					<SimpleData name="Country">Armenia</SimpleData>
+					<SimpleData name="Geological_Summary">The Ghegham Volcanic Ridge, located in west-central Armenia between the capital city of Yerevan and Lake Sevan, contains as many as 127 volcanic centers, lava domes and pyroclastic cones, of Pleistocene-to-Holocene age. The volcanoes and associated lava flows cover a 65-km-long, 35-km-wide area west of Lake Sevan and south of the Hrazdan River and are concentrated along three NNW-SSE-trending alignments. Lava flows from the central and eastern clusters flowed into Lake Sevan. Initial explosive eruptions in the volcanic field were followed by the extrusion of rhyolitic obsidian lava domes and flows. The latest activity produced a series of andesitic and basaltic-andesite cinder cones and lava flows. The central and eastern portions of the field contain large areas of Holocene eruptions with morphologically fresh lava flows devoid of vegetation.</SimpleData>
+					<SimpleData name="Region">Mediterranean and Western Asia</SimpleData>
+					<SimpleData name="Subregion">Western Asia</SimpleData>
+					<SimpleData name="Latitude">40.283</SimpleData>
+					<SimpleData name="Longitude">45.000</SimpleData>
+					<SimpleData name="Elevation">3597</SimpleData>
+					<SimpleData name="Tectonic_Setting">Intraplate / Continental crust (&gt; 25 km)</SimpleData>
+					<SimpleData name="Geologic_Epoch">Holocene</SimpleData>
+					<SimpleData name="Evidence_Category">Eruption Dated</SimpleData>
+					<SimpleData name="Primary_Photo_Link">https://volcano.si.edu/gallery/photos/GVP-11105.jpg</SimpleData>
+					<SimpleData name="Primary_Photo_Caption">The snow-capped cones of the Ghegam Ridge volcanic field rise across Lake Sevan from a fishing village on its NE shore. This volcanic field in west-central Armenia covers a 35-km-wide area between the capital city of Yerevan and Lake Sevan. Morphologically youthful lava flows from the central and eastern portions of Ghegam Ridge flowed into Lake Sevan.</SimpleData>
+					<SimpleData name="Primary_Photo_Credit">Photo by Ivan Savov, 2002 (Smithsonian Institution).</SimpleData>
+					<SimpleData name="Major_Rock_Type">Andesite / Basaltic Andesite</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>45,40.283,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="Smithsonian_VOTW_Holocene_Volcanoes.fid-36540bad_17c55274b59_-287">
+			<ExtendedData>
+				<SchemaData schemaUrl="#Smithsonian_VOTW_Holocene_Volcanoes_1">
+					<SimpleData name="Volcano_Number">214080</SimpleData>
+					<SimpleData name="Volcano_Name">Vaiyots-Sar</SimpleData>
+					<SimpleData name="Primary_Volcano_Type">Pyroclastic cone(s)</SimpleData>
+					<SimpleData name="Last_Eruption_Year">-2000</SimpleData>
+					<SimpleData name="Country">Armenia</SimpleData>
+					<SimpleData name="Geological_Summary">The Holocene Vaiyots-Sar pyroclastic cone is located in southern Armenia province of Vayots Dzor in the western Vardenis Volcanic Highland south of Lake Sevan (Karakhanian et al., 2002); previous names such as Dar-Alages or Daly-Tapa are of Russian origin. Oswald (1906) noted that steep escarpments of Nummulitic limestones faced the “Dalykh-tapa” volcano, about 6 km NE across an extensive lava-flow field. Near the north end of the approximately 5 x 8 km flow field the 1.5-km-diameter cone rises about 300 m above the surrounding lavas, identified by Sviatlovsky (1959) as post-glacial. At the southern end of the flow field a fissure-fed lava flow several thousand years ago dammed the Arpah River near the town of Vyke and then flowed NW for 6 km; the flows overlie an Upper Pleistocene terrace and have little soil development (Karakhanian et al., 2002). The youthful-looking Smbatassar cinder cone, 17 km NW of Vaiyots-Sar, appears to be the source vent for Holocene lava flows that traveled 11 km N and 17 km S down two valleys (Karakhanian et al., 2002).</SimpleData>
+					<SimpleData name="Region">Mediterranean and Western Asia</SimpleData>
+					<SimpleData name="Subregion">Western Asia</SimpleData>
+					<SimpleData name="Latitude">39.797</SimpleData>
+					<SimpleData name="Longitude">45.497</SimpleData>
+					<SimpleData name="Elevation">2575</SimpleData>
+					<SimpleData name="Tectonic_Setting">Intraplate / Continental crust (&gt; 25 km)</SimpleData>
+					<SimpleData name="Geologic_Epoch">Holocene</SimpleData>
+					<SimpleData name="Evidence_Category">Eruption Dated</SimpleData>
+					<SimpleData name="Major_Rock_Type">Andesite / Basaltic Andesite</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>45.497,39.797,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="Smithsonian_VOTW_Holocene_Volcanoes.fid-36540bad_17c55274b59_-286">
+			<ExtendedData>
+				<SchemaData schemaUrl="#Smithsonian_VOTW_Holocene_Volcanoes_1">
+					<SimpleData name="Volcano_Number">214090</SimpleData>
+					<SimpleData name="Volcano_Name">Porak</SimpleData>
+					<SimpleData name="Primary_Volcano_Type">Stratovolcano</SimpleData>
+					<SimpleData name="Last_Eruption_Year">-778</SimpleData>
+					<SimpleData name="Country">Armenia-Azerbaijan</SimpleData>
+					<SimpleData name="Geological_Summary">The mid-Pleistocene Porak volcano lies in the Vardenis volcanic highland about 20 km SE of Lake Sevan. The volcanic field straddles the Armenia/Azerbaijan border, and lava flows extend into both countries. The flanks are dotted with 10 satellitic cones and fissure vents. It was constructed along the active Pambak-Sevan strike-slip fault, which has bisected the mid-Pleistocene Khonarassar volcano, separating its two halves by about 800 m. Two large lava flows traveled up to 21 km north and NW, and fresh-looking lava flows form peninsulas extending into Lake Alagyol. Fifth century BCE petroglyphs were interpreted to depict volcanic eruptions (Karakhanian et al., 2002). Porak is referred to in a famous cuneiform inscription as Mount Bamni, and stratigraphic and archeological evidence indicates that an explosive eruption also producing a lava flow occurred at the time of a military battle dated to 782-773 BCE.</SimpleData>
+					<SimpleData name="Region">Mediterranean and Western Asia</SimpleData>
+					<SimpleData name="Subregion">Western Asia</SimpleData>
+					<SimpleData name="Latitude">40.028</SimpleData>
+					<SimpleData name="Longitude">45.740</SimpleData>
+					<SimpleData name="Elevation">3029</SimpleData>
+					<SimpleData name="Tectonic_Setting">Intraplate / Continental crust (&gt; 25 km)</SimpleData>
+					<SimpleData name="Geologic_Epoch">Holocene</SimpleData>
+					<SimpleData name="Evidence_Category">Eruption Dated</SimpleData>
+					<SimpleData name="Primary_Photo_Link">https://volcano.si.edu/gallery/photos/GVP-11236.jpg</SimpleData>
+					<SimpleData name="Primary_Photo_Caption">A lava flow extends across the foreground from a cone within the Porak volcanic field, located along the Vardeniss volcanic ridge about 20 km SE of Lake Sevan. The volcanic field straddles the Armenia/Azerbaijan border, and lava flows extend into both countries. This lava flow is the youngest of the volcanic field. Another flow from the same cone (located in Armenia) flowed into Lake Alagyol in Azerbaijan. Archaeological and historical evidence indicates several eruptions occurred during the Holocene.</SimpleData>
+					<SimpleData name="Primary_Photo_Credit">Photo by Jim Luhr, 2004 (Smithsonian Institution).</SimpleData>
+					<SimpleData name="Major_Rock_Type">Andesite / Basaltic Andesite</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>45.74,40.028,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="Smithsonian_VOTW_Holocene_Volcanoes.fid-36540bad_17c55274b59_-285">
+			<ExtendedData>
+				<SchemaData schemaUrl="#Smithsonian_VOTW_Holocene_Volcanoes_1">
+					<SimpleData name="Volcano_Number">214100</SimpleData>
+					<SimpleData name="Volcano_Name">Tskhouk-Karckar</SimpleData>
+					<SimpleData name="Primary_Volcano_Type">Pyroclastic cone(s)</SimpleData>
+					<SimpleData name="Last_Eruption_Year">-3000</SimpleData>
+					<SimpleData name="Country">Armenia-Azerbaijan</SimpleData>
+					<SimpleData name="Geological_Summary">A group of pyroclastic cones is located in the central part of the Siunik volcanic ridge along the Armenia/Azerbaijan border about 60 km SE of Lake Sevan. The Tskhouk-Karckar volcano group was constructed within offset segments of the major Pambak-Sevan strike-slip fault trending SE from Lake Sevan. Eight pyroclastic cones produced three generations of Holocene lava flows (Karakhanian et al., 2002). Abundant petroglyphs, burial kurgans, and masonry walls were found on flows of the older two age groups, but not on the youngest. Lava flows from cinder cones of the Tskhouk-Karckar volcano group overlie petroglyphs dated to the end of the 4th millennium and beginning of the 3rd millennium BCE and are themselves used in gravesites dated at 4720 +/- 140 yrs ago. Following these eruptions, the area was not repopulated until the Middle Ages.</SimpleData>
+					<SimpleData name="Region">Mediterranean and Western Asia</SimpleData>
+					<SimpleData name="Subregion">Western Asia</SimpleData>
+					<SimpleData name="Latitude">39.742</SimpleData>
+					<SimpleData name="Longitude">45.992</SimpleData>
+					<SimpleData name="Elevation">3139</SimpleData>
+					<SimpleData name="Tectonic_Setting">Intraplate / Continental crust (&gt; 25 km)</SimpleData>
+					<SimpleData name="Geologic_Epoch">Holocene</SimpleData>
+					<SimpleData name="Evidence_Category">Eruption Dated</SimpleData>
+					<SimpleData name="Primary_Photo_Link">https://volcano.si.edu/gallery/photos/GVP-12571.jpg</SimpleData>
+					<SimpleData name="Primary_Photo_Caption">A group of scoria cones with recent lava flows of the Tskhouk-Karckar volcanic group are in the center of this October 2019 Planet Labs satellite image monthly mosaic (N is at the top; this image is approximately 16 km across). The longest flow to the south traveled around 9 km from the vent. The lavas have abundant lobate flow edges and pressure ridges, and overlap older cones and flows.</SimpleData>
+					<SimpleData name="Primary_Photo_Credit">Satellite image courtesy of Planet Labs, 2018.</SimpleData>
+					<SimpleData name="Major_Rock_Type">Andesite / Basaltic Andesite</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>45.992,39.742,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="Smithsonian_VOTW_Holocene_Volcanoes.fid-36540bad_17c55274b59_-284">
+			<ExtendedData>
+				<SchemaData schemaUrl="#Smithsonian_VOTW_Holocene_Volcanoes_1">
+					<SimpleData name="Volcano_Number">221010</SimpleData>
+					<SimpleData name="Volcano_Name">Tair, Jebel at</SimpleData>
+					<SimpleData name="Primary_Volcano_Type">Stratovolcano</SimpleData>
+					<SimpleData name="Last_Eruption_Year">2008</SimpleData>
+					<SimpleData name="Country">Yemen</SimpleData>
+					<SimpleData name="Geological_Summary">The basaltic Jebel at Tair volcano rises from a 1,200 m depth in the south-central Red Sea, forming an oval-shaped island about 3 km long.  Jebel at Tair (one of many variations of the name, including Djebel Teyr, Jabal al Tayr, and Jibbel Tir ) is the northernmost known Holocene volcano in the Red Sea and lies SW of the Farisan Islands.  Youthful basaltic pahoehoe lava flows from the steep-sided central vent, Jebel Duchan, cover most of the island.  They drape a circular cliff cut by wave erosion of an older edifice and extend beyond it to form a flat coastal plain.  Pyroclastic cones are located along the NW and S coasts, and fumarolic activity occurs from two uneroded scoria cones at the summit.  Radial fissures extend from the summit, some of which were the sources of lava flows.  The island is of Holocene age, and explosive eruptions were reported in the 18th and 19th centuries.</SimpleData>
+					<SimpleData name="Region">Africa and Red Sea</SimpleData>
+					<SimpleData name="Subregion">Africa (northeastern) and Red Sea</SimpleData>
+					<SimpleData name="Latitude">15.550</SimpleData>
+					<SimpleData name="Longitude">41.830</SimpleData>
+					<SimpleData name="Elevation">244</SimpleData>
+					<SimpleData name="Tectonic_Setting"><![CDATA[Rift zone / Oceanic crust (< 15 km)]]></SimpleData>
+					<SimpleData name="Geologic_Epoch">Holocene</SimpleData>
+					<SimpleData name="Evidence_Category">Eruption Observed</SimpleData>
+					<SimpleData name="Primary_Photo_Link">https://volcano.si.edu/gallery/photos/GVP-11901.jpg</SimpleData>
+					<SimpleData name="Primary_Photo_Caption">Plumes are visible from the eruption of Jebel at Tair rise above the volcano as seen from the U.S. Navy vessel USS Bainbridge on 2 October 2007, two days after the start of the eruption. The small, 3-km-wide island rises from a 1,200 m depth in the south-central Red Sea. Jebel at Tair (one of many variations of the name, including Djebel Teyr, Jabal at Tayr, and Jibbel Tir) is the northernmost known Holocene volcano in the Red Sea. Historical eruptions date back to the 18th century.</SimpleData>
+					<SimpleData name="Primary_Photo_Credit">Photo by Vincent J. Street, 2007 (U.S. Navy).</SimpleData>
+					<SimpleData name="Major_Rock_Type">Trachybasalt / Tephrite Basanite</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>41.83,15.55,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="Smithsonian_VOTW_Holocene_Volcanoes.fid-36540bad_17c55274b59_-283">
+			<ExtendedData>
+				<SchemaData schemaUrl="#Smithsonian_VOTW_Holocene_Volcanoes_1">
+					<SimpleData name="Volcano_Number">221021</SimpleData>
+					<SimpleData name="Volcano_Name">Zukur</SimpleData>
+					<SimpleData name="Primary_Volcano_Type">Shield</SimpleData>
+					<SimpleData name="Country">Yemen</SimpleData>
+					<SimpleData name="Geological_Summary">Zukur (Zugar), the northernmost large island of the Zukur-Hanish island group in the southern Red Sea, is formed of Holocene basaltic pyroclastic cones and spatter cones that issued youthful-looking pahoehoe lava flows.  This island group lies in shallow waters S of the Red Sea median trough. Products of phreatic eruptions form small islands and coastal cones.  Late-stage trachytic lava domes produced viscous lava flows.  Vents on Zukur are aligned along a NE-SW trend.</SimpleData>
+					<SimpleData name="Region">Africa and Red Sea</SimpleData>
+					<SimpleData name="Subregion">Africa (northeastern) and Red Sea</SimpleData>
+					<SimpleData name="Latitude">14.020</SimpleData>
+					<SimpleData name="Longitude">42.750</SimpleData>
+					<SimpleData name="Elevation">624</SimpleData>
+					<SimpleData name="Tectonic_Setting"><![CDATA[Rift zone / Oceanic crust (< 15 km)]]></SimpleData>
+					<SimpleData name="Geologic_Epoch">Holocene</SimpleData>
+					<SimpleData name="Evidence_Category">Evidence Credible</SimpleData>
+					<SimpleData name="Primary_Photo_Link">https://volcano.si.edu/gallery/photos/GVP-11722.jpg</SimpleData>
+					<SimpleData name="Primary_Photo_Caption">Zukur (Zugar), the northernmost large island of the Zukur-Hanish island group in the southern Red Sea, is seen in this NASA Landsat image (with north to the top). Numerous young basaltic spatter cones were the source of pahoehoe lava flows. Products of phreatic eruptions at Zukur form small islands, such as Shark and Near Islands off the SW coast of Zukur. Vents on Zukur are aligned along a NE-SW trend, as seen on the peninsula at the southern tip of the island.</SimpleData>
+					<SimpleData name="Primary_Photo_Credit">NASA Landsat 7 image (worldwind.arc.nasa.gov)</SimpleData>
+					<SimpleData name="Major_Rock_Type">Basalt / Picro-Basalt</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>42.75,14.02,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="Smithsonian_VOTW_Holocene_Volcanoes.fid-36540bad_17c55274b59_-282">
+			<ExtendedData>
+				<SchemaData schemaUrl="#Smithsonian_VOTW_Holocene_Volcanoes_1">
+					<SimpleData name="Volcano_Number">221022</SimpleData>
+					<SimpleData name="Volcano_Name">Hanish</SimpleData>
+					<SimpleData name="Primary_Volcano_Type">Shield</SimpleData>
+					<SimpleData name="Country">Yemen</SimpleData>
+					<SimpleData name="Geological_Summary">The Hanish Islands are formed from a series of volcanic vents along a NE-SW trend, and include the Holocene Great Hanish, Little Hanish, and many other small islands and submarine shoals.  The Zukur-Hanish island group lies in shallow waters S of the Red Sea median trough. Spatter cones, cinder cones, and ash cones line the crest of the 20-km-long Great Hanish Island.  Short lava flows reach the coast on both sides of the island.  Initial eruptions were phreatic, followed by the formation of basaltic cinder cones, spatter cones, and fluid lava flows.</SimpleData>
+					<SimpleData name="Region">Africa and Red Sea</SimpleData>
+					<SimpleData name="Subregion">Africa (northeastern) and Red Sea</SimpleData>
+					<SimpleData name="Latitude">13.720</SimpleData>
+					<SimpleData name="Longitude">42.730</SimpleData>
+					<SimpleData name="Elevation">422</SimpleData>
+					<SimpleData name="Tectonic_Setting"><![CDATA[Rift zone / Oceanic crust (< 15 km)]]></SimpleData>
+					<SimpleData name="Geologic_Epoch">Holocene</SimpleData>
+					<SimpleData name="Evidence_Category">Evidence Credible</SimpleData>
+					<SimpleData name="Primary_Photo_Link">https://volcano.si.edu/gallery/photos/GVP-11723.jpg</SimpleData>
+					<SimpleData name="Primary_Photo_Caption">The 20-km-long island of Hanish is seen in this composite NASA Landsat image (with north to the top). Alignment of vents along a prominent NE-SW trend gives the island its elongated shape. Short lava flows reached the coast on both sides of the island, including a very youthful flow prominent on the NW coast. Initial phreatic eruptions were followed by the formation of basaltic tuff and spatter cones that produced fluid lava flows. Suyul Hanish Island lies at the bottom center, and other offshore island lie along the regional NE-SW trend.</SimpleData>
+					<SimpleData name="Primary_Photo_Credit">NASA Landsat 7 image (worldwind.arc.nasa.gov)</SimpleData>
+					<SimpleData name="Major_Rock_Type">Basalt / Picro-Basalt</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>42.73,13.72,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="Smithsonian_VOTW_Holocene_Volcanoes.fid-36540bad_17c55274b59_-281">
+			<ExtendedData>
+				<SchemaData schemaUrl="#Smithsonian_VOTW_Holocene_Volcanoes_1">
+					<SimpleData name="Volcano_Number">221020</SimpleData>
+					<SimpleData name="Volcano_Name">Zubair Group</SimpleData>
+					<SimpleData name="Primary_Volcano_Type">Shield</SimpleData>
+					<SimpleData name="Last_Eruption_Year">2013</SimpleData>
+					<SimpleData name="Country">Yemen</SimpleData>
+					<SimpleData name="Geological_Summary">The 5-km-long Jebel Zubair Island is the largest of a group of small islands and submerged shoals that rise from a shallow platform in the Red Sea rift. The platform and eruptive vents forming the islands and shoals are oriented NNW-SSE, parallel to the rift. An early explosive phase was followed by a brief period of marine erosion, then by renewed explosive activity accompanied by the extrusion of basaltic pahoehoe lava flows. This latest phase of activity occurred on the morphologically youngest islands of Zubair, Centre Peak, Saba, and Haycock. Historical explosive activity was reported from Saddle Island in the 19th century. Spatter cones and pyroclastic cones were erupted along fissures that form the low spine of Zubair Island. Eruptions that began in late 2011 built two new islands, increasing the total number in the group to 12.</SimpleData>
+					<SimpleData name="Region">Africa and Red Sea</SimpleData>
+					<SimpleData name="Subregion">Africa (northeastern) and Red Sea</SimpleData>
+					<SimpleData name="Latitude">15.050</SimpleData>
+					<SimpleData name="Longitude">42.180</SimpleData>
+					<SimpleData name="Elevation">191</SimpleData>
+					<SimpleData name="Tectonic_Setting"><![CDATA[Rift zone / Oceanic crust (< 15 km)]]></SimpleData>
+					<SimpleData name="Geologic_Epoch">Holocene</SimpleData>
+					<SimpleData name="Evidence_Category">Eruption Observed</SimpleData>
+					<SimpleData name="Primary_Photo_Link">https://volcano.si.edu/gallery/photos/GVP-11724.jpg</SimpleData>
+					<SimpleData name="Primary_Photo_Caption">The Zubair island group in the Red Sea rift rises from a shallow platform in the Red Sea rift in this composite NASA Landsat image with north to the top.  The 5-km-long Jebel Zubair Island (lower center) is the largest of a group of 10 small islands and submerged shoals.  Late-stage explosive and effusive activity has taken place on the islands of Zubair, Centre Peak (SW of Zubair), and Saba (NW of Zubair).  Historical explosive activity was reported in the 19th century from Saddle Island, the largest of three small islands at the upper left.</SimpleData>
+					<SimpleData name="Primary_Photo_Credit">NASA Landsat 7 image (worldwind.arc.nasa.gov)</SimpleData>
+					<SimpleData name="Major_Rock_Type">Basalt / Picro-Basalt</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>42.18,15.05,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="Smithsonian_VOTW_Holocene_Volcanoes.fid-36540bad_17c55274b59_-280">
+			<ExtendedData>
+				<SchemaData schemaUrl="#Smithsonian_VOTW_Holocene_Volcanoes_1">
+					<SimpleData name="Volcano_Number">221041</SimpleData>
+					<SimpleData name="Volcano_Name">Dallol</SimpleData>
+					<SimpleData name="Primary_Volcano_Type">Explosion crater(s)</SimpleData>
+					<SimpleData name="Last_Eruption_Year">2011</SimpleData>
+					<SimpleData name="Country">Ethiopia</SimpleData>
+					<SimpleData name="Geological_Summary">Numerous phreatic explosion craters dot the Salt Plain NNE of the Erta Ale Range in one of the lowest areas of the desolate Danakil depression. These craters mark Earth&apos;s lowest known subaerial volcanic vents. The most recent of these craters, Dallol, lies 48 m below sea level and was formed during an eruption in 1926. Colorful hot brine springs are found in the Dallol area. Another phreatic explosion was observed in January 2011.</SimpleData>
+					<SimpleData name="Region">Africa and Red Sea</SimpleData>
+					<SimpleData name="Subregion">Africa (northeastern) and Red Sea</SimpleData>
+					<SimpleData name="Latitude">14.242</SimpleData>
+					<SimpleData name="Longitude">40.300</SimpleData>
+					<SimpleData name="Elevation">-48</SimpleData>
+					<SimpleData name="Tectonic_Setting">Rift zone / Intermediate crust (15-25 km)</SimpleData>
+					<SimpleData name="Geologic_Epoch">Holocene</SimpleData>
+					<SimpleData name="Evidence_Category">Eruption Observed</SimpleData>
+					<SimpleData name="Primary_Photo_Link">https://volcano.si.edu/gallery/photos/GVP-09908.jpg</SimpleData>
+					<SimpleData name="Primary_Photo_Caption">Colorful hot brine pools up to about a meter in diameter with terraces at hot springs at Dallol. Numerous phreatic explosion craters dot the Salt Plain NNE of the Erta Ale Range in one of the lowest areas of the Danakil depression. These craters mark Earth&apos;s lowest known subaerial volcanic vents. The most recent of these craters, Dallol, lies 48 m below sea level and was formed during an eruption in 1926.</SimpleData>
+					<SimpleData name="Primary_Photo_Credit">Copyrighted photo by Marco Fulle, 2002 (Stromboli On-Line, http://stromboli.net).</SimpleData>
+					<SimpleData name="Major_Rock_Type">No Data (checked)</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>40.3,14.242,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="Smithsonian_VOTW_Holocene_Volcanoes.fid-36540bad_17c55274b59_-27f">
+			<ExtendedData>
+				<SchemaData schemaUrl="#Smithsonian_VOTW_Holocene_Volcanoes_1">
+					<SimpleData name="Volcano_Number">221040</SimpleData>
+					<SimpleData name="Volcano_Name">Alid</SimpleData>
+					<SimpleData name="Primary_Volcano_Type">Stratovolcano</SimpleData>
+					<SimpleData name="Country">Eritrea</SimpleData>
+					<SimpleData name="Geological_Summary">Alid is an isolated, dissected volcano in the central Danakil depression. Elongated in an E-W direction perpendicular to the orientation of the Alid graben, it consists of a structural dome of uplifted sedimentary rocks rising 700 m above the graben floor, which was produced by intrusion of a silicic magma body. The dome is capped by steep-sided basaltic-to-rhyolitic lava flows. Late-stage eruptions during the late Pleistocene ejected rhyolitic pumice. A 2 x 3 km graben cuts the top of the dome, and the crater that produced the Plinian eruption occupies the western third of the summit depression.  Vast lava fields of probable Holocene age originating from fissure vents bank up against the flanks to the NW and SE. Small cones and craters that were the source of the flows are localized along NNW-trending fissures. Fumarolic activity continues from broad areas on the northern summit and flank.</SimpleData>
+					<SimpleData name="Region">Africa and Red Sea</SimpleData>
+					<SimpleData name="Subregion">Africa (northeastern) and Red Sea</SimpleData>
+					<SimpleData name="Latitude">14.880</SimpleData>
+					<SimpleData name="Longitude">39.920</SimpleData>
+					<SimpleData name="Elevation">904</SimpleData>
+					<SimpleData name="Tectonic_Setting">Rift zone / Intermediate crust (15-25 km)</SimpleData>
+					<SimpleData name="Geologic_Epoch">Holocene</SimpleData>
+					<SimpleData name="Evidence_Category">Evidence Credible</SimpleData>
+					<SimpleData name="Primary_Photo_Link">https://volcano.si.edu/gallery/photos/GVP-05954.jpg</SimpleData>
+					<SimpleData name="Primary_Photo_Caption">The elongated Alid volcano, which sits on the axis of the Danakil spreading center, is seen here from the W. Most of the flanks of the volcano in this view are composed of dipping rhyolitic lava flows; the light-colored area along the right skyline is rhyolitic pumice. The summit of the volcano is elongated in an E-W direction and contains a 1 x 1.5 km wide, 100-m-deep crater at the western end. Vast lava fields originating from fissure vents in the Alid graben extend to the NW and SE of the volcano. Vigorous fumarolic activity continues at Alid.</SimpleData>
+					<SimpleData name="Primary_Photo_Credit">Photo by Wendell Duffield, 1996 (U.S. Geological Survey).</SimpleData>
+					<SimpleData name="Major_Rock_Type">Rhyolite</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>39.92,14.88,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="Smithsonian_VOTW_Holocene_Volcanoes.fid-36540bad_17c55274b59_-27e">
+			<ExtendedData>
+				<SchemaData schemaUrl="#Smithsonian_VOTW_Holocene_Volcanoes_1">
+					<SimpleData name="Volcano_Number">221050</SimpleData>
+					<SimpleData name="Volcano_Name">Gada Ale</SimpleData>
+					<SimpleData name="Primary_Volcano_Type">Stratovolcano</SimpleData>
+					<SimpleData name="Country">Ethiopia</SimpleData>
+					<SimpleData name="Geological_Summary">Gada Ale (also known as Kebrit Ale), the most prominent volcano at the northern end of the Erta Ale Range, is formed of interstratified lava flows and hyaloclastites. Fumarolic activity is continuing, and the summit crater contains a small lake with hot mud. Like other Erta Ale Range volcanoes, Gada Ale is considered to be of Holocene age (Barberi and Varet, 1970). A fissure on the SE flank has produced spatter cones and a cinder cone; the latter fed lava flows that reach to Lake Bakili. The symmetrical Catherine tuff ring is located along this same SE trend west of Lake Bakili, and other tuff rings occur on the east side of the lake. A 2-km-wide salt dome to the west has uplifted lava flows as much as 100 m, and the structure of Gada Ale itself appears to be related to salt diapir uplift.</SimpleData>
+					<SimpleData name="Region">Africa and Red Sea</SimpleData>
+					<SimpleData name="Subregion">Africa (northeastern) and Red Sea</SimpleData>
+					<SimpleData name="Latitude">13.975</SimpleData>
+					<SimpleData name="Longitude">40.408</SimpleData>
+					<SimpleData name="Elevation">287</SimpleData>
+					<SimpleData name="Tectonic_Setting">Rift zone / Intermediate crust (15-25 km)</SimpleData>
+					<SimpleData name="Geologic_Epoch">Holocene</SimpleData>
+					<SimpleData name="Evidence_Category">Evidence Credible</SimpleData>
+					<SimpleData name="Primary_Photo_Link">https://volcano.si.edu/gallery/photos/GVP-09905.jpg</SimpleData>
+					<SimpleData name="Primary_Photo_Caption">Gada Ale (upper right) is the most prominent volcano at the northern end of the Erta Ale Range. The 287-m-high volcano is seen here from the S, with two small lakes on its lower NW flank. Lake Aasale (Lake Karum) at about 116 m below sea level, is in the background. Prominent fissures (lower right) are adjacent to an uplifted salt dome (lower left). Salt diapir uplift has affected both this 2-km-wide area W of the volcano (where lava flows are uplifted as much as 100 m) and Gada Ale itself.</SimpleData>
+					<SimpleData name="Primary_Photo_Credit">Copyrighted photo by Marco Fulle, 2002 (Stromboli On-Line, http://stromboli.net).</SimpleData>
+					<SimpleData name="Major_Rock_Type">Basalt / Picro-Basalt</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>40.408,13.975,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="Smithsonian_VOTW_Holocene_Volcanoes.fid-36540bad_17c55274b59_-27d">
+			<ExtendedData>
+				<SchemaData schemaUrl="#Smithsonian_VOTW_Holocene_Volcanoes_1">
+					<SimpleData name="Volcano_Number">221060</SimpleData>
+					<SimpleData name="Volcano_Name">Alu-Dalafilla</SimpleData>
+					<SimpleData name="Primary_Volcano_Type">Fissure vent(s)</SimpleData>
+					<SimpleData name="Last_Eruption_Year">2008</SimpleData>
+					<SimpleData name="Country">Ethiopia</SimpleData>
+					<SimpleData name="Geological_Summary">The summit region of Alu, ~5 km NW of the Dalafilla stratovolcano, is an ellipsoidal volcanic horst, elongated NNW-SSE, and formed primarily of older basaltic lava flows. Recent fractures along the axis of the Erta Ale range cut the main horst of Alu and areas to the SSE. Fumarolic activity is located on the numerous parallel faults. Fissure vents west of the horst have fed silicic lava flows, and voluminous youthful basaltic lava flows to the east extend north as far as Lake Bakili. Dalafilla, also referred to as Gabuli, is a steep-sided cone that rises 300 m above surrounding lava fields due to extrusion of viscous, silicic lava flows. Basaltic lava flows from regional fissures surround the volcano. Fumarolic activity occurs in the 100-m-wide summit crater and has weathered surrounding lava flows. The first historical eruption of Alu-Dalafilla took place in 2008, when lava flows from vents between the two edifices traveled NE.</SimpleData>
+					<SimpleData name="Region">Africa and Red Sea</SimpleData>
+					<SimpleData name="Subregion">Africa (northeastern) and Red Sea</SimpleData>
+					<SimpleData name="Latitude">13.793</SimpleData>
+					<SimpleData name="Longitude">40.553</SimpleData>
+					<SimpleData name="Elevation">578</SimpleData>
+					<SimpleData name="Tectonic_Setting">Rift zone / Intermediate crust (15-25 km)</SimpleData>
+					<SimpleData name="Geologic_Epoch">Holocene</SimpleData>
+					<SimpleData name="Evidence_Category">Eruption Observed</SimpleData>
+					<SimpleData name="Primary_Photo_Link">https://volcano.si.edu/gallery/photos/GVP-09907.jpg</SimpleData>
+					<SimpleData name="Primary_Photo_Caption">The steep-sided, conical Dalafilla volcano rises 300 m above surrounding lava fields of Alu volcano in the foreground in this view from the NW. This morphology, unusual for the Erta Ale Range volcanoes, results from the extrusion of viscous, silicic lava flows. These silicic flows extend primarily to the east from the 613-m-high summit. On the western side they are blocked by walls of a horst structure along the crest of the Erta Ale Range that forms the linear ridge in the right side of the photo.</SimpleData>
+					<SimpleData name="Primary_Photo_Credit">Copyrighted photo by Marco Fulle, 2002 (Stromboli On-Line, http://stromboli.net).</SimpleData>
+					<SimpleData name="Major_Rock_Type">Basalt / Picro-Basalt</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>40.553,13.793,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="Smithsonian_VOTW_Holocene_Volcanoes.fid-36540bad_17c55274b59_-27c">
+			<ExtendedData>
+				<SchemaData schemaUrl="#Smithsonian_VOTW_Holocene_Volcanoes_1">
+					<SimpleData name="Volcano_Number">221071</SimpleData>
+					<SimpleData name="Volcano_Name">Bora Ale</SimpleData>
+					<SimpleData name="Primary_Volcano_Type">Stratovolcano</SimpleData>
+					<SimpleData name="Country">Ethiopia</SimpleData>
+					<SimpleData name="Geological_Summary">Bora Ale is a complex volcano located near the center of the Erta Ale Range. The earliest activity formed submarine lava flows partially covered by Quaternary reef deposits. A 4-km-wide shield volcano SW of the main cone is cut by curvilinear faults; youthful chains of spatter cones follow this same pattern and form concentric semi-circles. The summit is located on the NE side of the massif and consists of a silicic stratovolcano that is the largest of the Erta Ale Range. It has produced steep-sided viscous lava flows that have traveled up to 5 km. Strong fumarolic activity occurs within a 300-m-wide summit crater. Regional faulting has fed very recent basaltic lava flows from a NNW-trending fissure that cuts the stratovolcano.</SimpleData>
+					<SimpleData name="Region">Africa and Red Sea</SimpleData>
+					<SimpleData name="Subregion">Africa (northeastern) and Red Sea</SimpleData>
+					<SimpleData name="Latitude">13.725</SimpleData>
+					<SimpleData name="Longitude">40.600</SimpleData>
+					<SimpleData name="Elevation">668</SimpleData>
+					<SimpleData name="Tectonic_Setting">Rift zone / Intermediate crust (15-25 km)</SimpleData>
+					<SimpleData name="Geologic_Epoch">Holocene</SimpleData>
+					<SimpleData name="Evidence_Category">Evidence Credible</SimpleData>
+					<SimpleData name="Primary_Photo_Link">https://volcano.si.edu/gallery/photos/GVP-09914.jpg</SimpleData>
+					<SimpleData name="Primary_Photo_Caption">The summit of Borale Ale (upper left) consists of a silicic stratovolcano that is the largest of the Erte Ale Range. Spatter cones aligned along regional fissures can be seen in the foreground and an altered lava dome forms the light-colored cone above the fissures. Strong fumarolic activity occurs within a 300-m-wide crater on the 668-m-high summit of the volcano. Regional faulting has resulted in recent basaltic lava flows from a NNW-trending fissure that cuts the stratovolcano.</SimpleData>
+					<SimpleData name="Primary_Photo_Credit">Copyrighted photo by Marco Fulle, 2002 (Stromboli On-Line, http://stromboli.net).</SimpleData>
+					<SimpleData name="Major_Rock_Type">Basalt / Picro-Basalt</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>40.6,13.725,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="Smithsonian_VOTW_Holocene_Volcanoes.fid-36540bad_17c55274b59_-27b">
+			<ExtendedData>
+				<SchemaData schemaUrl="#Smithsonian_VOTW_Holocene_Volcanoes_1">
+					<SimpleData name="Volcano_Number">221080</SimpleData>
+					<SimpleData name="Volcano_Name">Erta Ale</SimpleData>
+					<SimpleData name="Primary_Volcano_Type">Shield</SimpleData>
+					<SimpleData name="Last_Eruption_Year">2021</SimpleData>
+					<SimpleData name="Country">Ethiopia</SimpleData>
+					<SimpleData name="Geological_Summary">The Erta Ale basaltic shield volcano is the most active in Ethiopia, with a 50-km-wide edifice that rises more than 600 m from below sea level in the barren Danakil depression. It is the namesake and most prominent feature of the Erta Ale Range. The volcano includes a 0.7 x 1.6 km elliptical summit crater hosting steep-sided pit craters. Another larger 1.8 x 3.1 km wide depression elongated parallel to the trend of the Erta Ale range is located SE of the summit and is bounded by curvilinear fault scarps on the SE side. Fresh-looking basaltic lava flows from these fissures have poured into the caldera and locally overflowed its rim. The summit caldera usually also holds at least one long-term lava lake that has been active since at least 1967, or possibly since 1906. Recent fissure eruptions have occurred on the N flank.</SimpleData>
+					<SimpleData name="Region">Africa and Red Sea</SimpleData>
+					<SimpleData name="Subregion">Africa (northeastern) and Red Sea</SimpleData>
+					<SimpleData name="Latitude">13.600</SimpleData>
+					<SimpleData name="Longitude">40.670</SimpleData>
+					<SimpleData name="Elevation">613</SimpleData>
+					<SimpleData name="Tectonic_Setting">Rift zone / Intermediate crust (15-25 km)</SimpleData>
+					<SimpleData name="Geologic_Epoch">Holocene</SimpleData>
+					<SimpleData name="Evidence_Category">Eruption Observed</SimpleData>
+					<SimpleData name="Primary_Photo_Link">https://volcano.si.edu/gallery/photos/GVP-09909.jpg</SimpleData>
+					<SimpleData name="Primary_Photo_Caption">The summit of Erta Ale contains a 0.7 x 1.6 km elliptical caldera containing pit craters. A plume rises from the N pit at the left, and a lava lake was active in the center pit crater at the time of this February 2002 view from the S. It is an isolated basaltic shield volcano that is the most active volcano in Ethiopia. Recent basaltic lava flows fill much of the caldera and have overflowed its rim on the southern side. One, or sometimes two, long-term lava lakes have been active since at least 1967.</SimpleData>
+					<SimpleData name="Primary_Photo_Credit">Photo by Jürg Alean, 2002 (Kantonsschule Zürcher Unterland, Bülach, Switzerland).</SimpleData>
+					<SimpleData name="Major_Rock_Type">Basalt / Picro-Basalt</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>40.67,13.6,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

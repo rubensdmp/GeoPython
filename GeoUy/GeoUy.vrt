@@ -1,0 +1,16 @@
+<VRTDataset rasterYSize="0" rasterXSize="0">
+  <SRS></SRS>
+  <GeoTransform>-58.461660, inf, 0, -30.033037, 0, -inf</GeoTransform>
+  <VRTRasterBand band="1" dataType="Byte">
+    <ColorInterp>Red</ColorInterp>
+  </VRTRasterBand>
+  <VRTRasterBand band="2" dataType="Byte">
+    <ColorInterp>Green</ColorInterp>
+  </VRTRasterBand>
+  <VRTRasterBand band="3" dataType="Byte">
+    <ColorInterp>Blue</ColorInterp>
+  </VRTRasterBand>
+  <VRTRasterBand band="4" dataType="Byte">
+    <ColorInterp>Alpha</ColorInterp>
+  </VRTRasterBand>
+</VRTDataset>

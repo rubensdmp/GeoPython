@@ -1,0 +1,27 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- R / RStudio ---
+.RData
+.Rhistory
+.Rproj.user/
+.Ruserdata
+
+# --- SO / editores ---
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# --- Temporales y salidas generadas ---
+temp.kml
+output_*
